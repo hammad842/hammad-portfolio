@@ -1,0 +1,206 @@
+{
+  "slug": "pulse-power-snacks",
+  "name": "Pulse Power Snacks",
+  "file": "Pulse Power Snacks Website .pdf",
+  "category": "Food & Lifestyle",
+  "accent": "#ffda38",
+  "theme": "light",
+  "motion": "playful",
+  "crop": [
+    0.0,
+    3150.0,
+    1400.0,
+    4812.5
+  ],
+  "cuts": [
+    0,
+    1090,
+    1990,
+    2780,
+    3430,
+    4100,
+    4420,
+    4812.5
+  ],
+  "labels": [
+    "The chickpea revolution",
+    "Favourite flavours",
+    "Chickpea goodness",
+    "Our chickpeople",
+    "Join the revolution",
+    "Our distributors",
+    "Contact"
+  ],
+  "sourceSize": [
+    1400.0,
+    7962.5
+  ],
+  "size": [
+    1400.0,
+    4812.5
+  ],
+  "sections": [
+    {
+      "id": "home",
+      "label": "The chickpea revolution",
+      "start": 0.0,
+      "height": 1126.562,
+      "width": 1400.0,
+      "asset": "assets/main-section-01.webp",
+      "pixels": [
+        1920,
+        1545
+      ]
+    },
+    {
+      "id": "favourite-flavours",
+      "label": "Favourite flavours",
+      "start": 1126.562,
+      "height": 770.0,
+      "width": 1400.0,
+      "asset": "assets/main-section-02.webp",
+      "pixels": [
+        1920,
+        1056
+      ]
+    },
+    {
+      "id": "chickpea-goodness",
+      "label": "Chickpea goodness",
+      "start": 1896.562,
+      "height": 846.5630000000001,
+      "width": 1400.0,
+      "asset": "assets/main-section-03.webp",
+      "pixels": [
+        1920,
+        1161
+      ]
+    },
+    {
+      "id": "our-chickpeople",
+      "label": "Our chickpeople",
+      "start": 2743.125,
+      "height": 708.75,
+      "width": 1400.0,
+      "asset": "assets/main-section-04.webp",
+      "pixels": [
+        1920,
+        972
+      ]
+    },
+    {
+      "id": "join-the-revolution",
+      "label": "Join the revolution",
+      "start": 3451.875,
+      "height": 575.3130000000001,
+      "width": 1400.0,
+      "asset": "assets/main-section-05.webp",
+      "pixels": [
+        1920,
+        789
+      ]
+    },
+    {
+      "id": "our-distributors",
+      "label": "Our distributors",
+      "start": 4027.188,
+      "height": 457.1869999999999,
+      "width": 1400.0,
+      "asset": "assets/main-section-06.webp",
+      "pixels": [
+        1920,
+        627
+      ]
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "start": 4484.375,
+      "height": 328.125,
+      "width": 1400.0,
+      "asset": "assets/main-section-07.webp",
+      "pixels": [
+        1920,
+        450
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "kind": "detail",
+      "section": "home",
+      "label": "Pulse Power Snacks — product detail 1",
+      "box": [
+        470,
+        200,
+        630,
+        760
+      ],
+      "asset": "assets/main-section-01.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "favourite-flavours",
+      "label": "Pulse Power Snacks — product detail 2",
+      "box": [
+        80,
+        1450,
+        360,
+        446.5619999999999
+      ],
+      "asset": "assets/main-section-02.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "favourite-flavours",
+      "label": "Pulse Power Snacks — product detail 3",
+      "box": [
+        530,
+        1450,
+        360,
+        446.5619999999999
+      ],
+      "asset": "assets/main-section-02.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "favourite-flavours",
+      "label": "Pulse Power Snacks — product detail 4",
+      "box": [
+        980,
+        1450,
+        340,
+        446.5619999999999
+      ],
+      "asset": "assets/main-section-02.webp"
+    }
+  ],
+  "navigation": [
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "Home",
+      "box": [
+        364.95652173913044,
+        61.85638702702701,
+        73.56521739130434,
+        33.39695351351351
+      ],
+      "destination": "home"
+    },
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "shop",
+      "box": [
+        652.2608695652175,
+        60.63848216216215,
+        66.26086956521739,
+        39.48647783783784
+      ],
+      "destination": "favourite-flavours"
+    }
+  ],
+  "rendering": "source-preserving HTML showcase with raster artwork sections",
+  "textLayer": "flattened artwork; header OCR for navigation"
+}

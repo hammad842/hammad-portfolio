@@ -1,0 +1,291 @@
+{
+  "slug": "evolvai",
+  "name": "EvolvAI — Alternate",
+  "file": "EvolvAI.pdf",
+  "variant": "alternate",
+  "category": "AI & Technology",
+  "accent": "#8cbfae",
+  "theme": "dark",
+  "motion": "corporate",
+  "cuts": [
+    0,
+    1120,
+    2050,
+    2700,
+    3510,
+    4510,
+    5050,
+    5909
+  ],
+  "labels": [
+    "Innovative research and development",
+    "Our mission",
+    "Business protection",
+    "Tailored AI solutions",
+    "Our industries",
+    "Innovation",
+    "Contact"
+  ],
+  "sourceSize": [
+    1920.0,
+    5909.0
+  ],
+  "crop": [
+    0.0,
+    0.0,
+    1920.0,
+    5909.0
+  ],
+  "size": [
+    1920.0,
+    5909.0
+  ],
+  "sections": [
+    {
+      "id": "home",
+      "label": "Innovative research and development",
+      "start": 0.0,
+      "height": 1172.802,
+      "width": 1920.0,
+      "asset": "assets/alternate-section-01.webp",
+      "pixels": [
+        2560,
+        1564
+      ]
+    },
+    {
+      "id": "our-mission",
+      "label": "Our mission",
+      "start": 1172.802,
+      "height": 818.8610000000001,
+      "width": 1920.0,
+      "asset": "assets/alternate-section-02.webp",
+      "pixels": [
+        2560,
+        1093
+      ]
+    },
+    {
+      "id": "business-protection",
+      "label": "Business protection",
+      "start": 1991.663,
+      "height": 521.9119999999998,
+      "width": 1920.0,
+      "asset": "assets/alternate-section-03.webp",
+      "pixels": [
+        2560,
+        697
+      ]
+    },
+    {
+      "id": "tailored-ai-solutions",
+      "label": "Tailored AI solutions",
+      "start": 2513.575,
+      "height": 1019.8270000000002,
+      "width": 1920.0,
+      "asset": "assets/alternate-section-04.webp",
+      "pixels": [
+        2560,
+        1361
+      ]
+    },
+    {
+      "id": "our-industries",
+      "label": "Our industries",
+      "start": 3533.402,
+      "height": 926.8429999999998,
+      "width": 1920.0,
+      "asset": "assets/alternate-section-05.webp",
+      "pixels": [
+        2560,
+        1236
+      ]
+    },
+    {
+      "id": "innovation",
+      "label": "Innovation",
+      "start": 4460.245,
+      "height": 569.9040000000005,
+      "width": 1920.0,
+      "asset": "assets/alternate-section-06.webp",
+      "pixels": [
+        2560,
+        761
+      ]
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "start": 5030.149,
+      "height": 878.8509999999997,
+      "width": 1920.0,
+      "asset": "assets/alternate-section-07.webp",
+      "pixels": [
+        2560,
+        1173
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "kind": "detail",
+      "section": "tailored-ai-solutions",
+      "label": "EvolvAI — Alternate — design detail 1",
+      "box": [
+        1591.0,
+        2513.575,
+        329.0,
+        1019.8270000000002
+      ],
+      "asset": "assets/alternate-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "our-industries",
+      "label": "EvolvAI — Alternate — design detail 2",
+      "box": [
+        844.6181640625,
+        3710.629638671875,
+        488.486328125,
+        732.639892578125
+      ],
+      "asset": "assets/alternate-section-05.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "our-mission",
+      "label": "EvolvAI — Alternate — design detail 3",
+      "box": [
+        0,
+        1172.802,
+        228.9931640625,
+        818.8610000000001
+      ],
+      "asset": "assets/alternate-section-02.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "our-mission",
+      "label": "EvolvAI — Alternate — design detail 4",
+      "box": [
+        1315.51904296875,
+        1172.802,
+        489.8094482421875,
+        549.2771015625001
+      ],
+      "asset": "assets/alternate-section-02.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "our-industries",
+      "label": "EvolvAI — Alternate — design detail 5",
+      "box": [
+        0,
+        3533.402,
+        229.385986328125,
+        926.8429999999998
+      ],
+      "asset": "assets/alternate-section-05.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "our-industries",
+      "label": "EvolvAI — Alternate — design detail 6",
+      "box": [
+        1356.8751220703125,
+        3806.888916015625,
+        360.1248779296875,
+        540.121337890625
+      ],
+      "asset": "assets/alternate-section-05.webp"
+    }
+  ],
+  "navigation": [
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "Home",
+      "box": [
+        715.6014404296875,
+        77.71438627243042,
+        70.1173095703125,
+        38.48726482391358
+      ],
+      "destination": "home"
+    },
+    {
+      "kind": "scroll",
+      "section": "our-mission",
+      "label": "Learn More",
+      "box": [
+        227.1417999267578,
+        1788.6091557502746,
+        129.62583923339844,
+        41.21168079376221
+      ],
+      "destination": "our-mission"
+    },
+    {
+      "kind": "scroll",
+      "section": "business-protection",
+      "label": "Learn More",
+      "box": [
+        227.1417999267578,
+        2361.6091557502746,
+        129.62583923339844,
+        41.21168079376221
+      ],
+      "destination": "our-mission"
+    },
+    {
+      "kind": "scroll",
+      "section": "contact",
+      "label": "Contact us",
+      "box": [
+        1082.417236328125,
+        5304.8561153411865,
+        124.3084716796875,
+        40.892086029052734
+      ],
+      "destination": "contact"
+    },
+    {
+      "kind": "scroll",
+      "section": "contact",
+      "label": "Home",
+      "box": [
+        204.0,
+        5367.8561153411865,
+        76.63656616210938,
+        40.892086029052734
+      ],
+      "destination": "home"
+    },
+    {
+      "kind": "scroll",
+      "section": "contact",
+      "label": "About",
+      "box": [
+        204.0,
+        5400.8561153411865,
+        76.86447143554688,
+        40.892086029052734
+      ],
+      "destination": "our-mission"
+    },
+    {
+      "kind": "scroll",
+      "section": "contact",
+      "label": "Features",
+      "box": [
+        386.956787109375,
+        5400.8561153411865,
+        102.02993774414062,
+        40.892086029052734
+      ],
+      "destination": "contact"
+    }
+  ],
+  "rendering": "source-preserving HTML showcase with raster artwork sections",
+  "textLayer": "original PDF copy"
+}

@@ -1,0 +1,384 @@
+{
+  "slug": "furene",
+  "name": "Furene",
+  "file": "Furene Website.pdf",
+  "category": "Fintech",
+  "accent": "#04e18c",
+  "theme": "dark",
+  "motion": "saas",
+  "cuts": [
+    0,
+    1280,
+    2090,
+    3090,
+    4570,
+    5820,
+    6411
+  ],
+  "labels": [
+    "Your financial future",
+    "Effortless money tools",
+    "Money made simple",
+    "Spend, track, grow",
+    "Send money overseas",
+    "Contact"
+  ],
+  "sourceSize": [
+    1920.0,
+    6411.0
+  ],
+  "crop": [
+    0.0,
+    0.0,
+    1920.0,
+    6411.0
+  ],
+  "size": [
+    1920.0,
+    6411.0
+  ],
+  "sections": [
+    {
+      "id": "home",
+      "label": "Your financial future",
+      "start": 0.0,
+      "height": 1271.405,
+      "width": 1920.0,
+      "asset": "assets/main-section-01.webp",
+      "pixels": [
+        2560,
+        1696
+      ]
+    },
+    {
+      "id": "effortless-money-tools",
+      "label": "Effortless money tools",
+      "start": 1271.405,
+      "height": 842.606,
+      "width": 1920.0,
+      "asset": "assets/main-section-02.webp",
+      "pixels": [
+        2560,
+        1124
+      ]
+    },
+    {
+      "id": "money-made-simple",
+      "label": "Money made simple",
+      "start": 2114.011,
+      "height": 1028.518,
+      "width": 1920.0,
+      "asset": "assets/main-section-03.webp",
+      "pixels": [
+        2560,
+        1373
+      ]
+    },
+    {
+      "id": "spend-track-grow",
+      "label": "Spend, track, grow",
+      "start": 3142.529,
+      "height": 1376.3560000000002,
+      "width": 1920.0,
+      "asset": "assets/main-section-04.webp",
+      "pixels": [
+        2560,
+        1836
+      ]
+    },
+    {
+      "id": "send-money-overseas",
+      "label": "Send money overseas",
+      "start": 4518.885,
+      "height": 1244.4179999999997,
+      "width": 1920.0,
+      "asset": "assets/main-section-05.webp",
+      "pixels": [
+        2560,
+        1660
+      ]
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "start": 5763.303,
+      "height": 647.6970000000001,
+      "width": 1920.0,
+      "asset": "assets/main-section-06.webp",
+      "pixels": [
+        2560,
+        864
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "kind": "detail",
+      "section": "money-made-simple",
+      "label": "Furene — design detail 1",
+      "box": [
+        858.0,
+        2264.0,
+        1062.0,
+        878.529
+      ],
+      "asset": "assets/main-section-03.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "home",
+      "label": "Furene — design detail 2",
+      "box": [
+        858.0,
+        375.0,
+        1062.0,
+        896.405
+      ],
+      "asset": "assets/main-section-01.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "effortless-money-tools",
+      "label": "Furene — design detail 3",
+      "box": [
+        0,
+        1271.405,
+        656.0,
+        820.595
+      ],
+      "asset": "assets/main-section-02.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "send-money-overseas",
+      "label": "Furene — design detail 4",
+      "box": [
+        0,
+        4518.885,
+        632.0,
+        1244.4179999999997
+      ],
+      "asset": "assets/main-section-05.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "money-made-simple",
+      "label": "Furene — design detail 5",
+      "box": [
+        226.0,
+        2186.974853515625,
+        455.0,
+        955.554146484375
+      ],
+      "asset": "assets/main-section-03.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "spend-track-grow",
+      "label": "Furene — design detail 6",
+      "box": [
+        292.0,
+        3573.634033203125,
+        454.0,
+        945.2509667968752
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "spend-track-grow",
+      "label": "Furene — design detail 7",
+      "box": [
+        639.0,
+        3799.254638671875,
+        277.5401611328125,
+        600.967041015625
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "send-money-overseas",
+      "label": "Furene — design detail 8",
+      "box": [
+        438.8486328125,
+        5016.14111328125,
+        824.17431640625,
+        201.0380859375
+      ],
+      "asset": "assets/main-section-05.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "send-money-overseas",
+      "label": "Furene — design detail 9",
+      "box": [
+        407.140625,
+        5189.80517578125,
+        571.26171875,
+        279.6962890625
+      ],
+      "asset": "assets/main-section-05.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "effortless-money-tools",
+      "label": "Furene — design detail 10",
+      "box": [
+        728.65576171875,
+        1736.9998779296875,
+        502.92138671875,
+        299.0093994140625
+      ],
+      "asset": "assets/main-section-02.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "effortless-money-tools",
+      "label": "Furene — design detail 11",
+      "box": [
+        1186.771484375,
+        1736.9998779296875,
+        502.92138671875,
+        299.0093994140625
+      ],
+      "asset": "assets/main-section-02.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "send-money-overseas",
+      "label": "Furene — design detail 12",
+      "box": [
+        831.33251953125,
+        5313.2333984375,
+        660.962890625,
+        180.40087890625
+      ],
+      "asset": "assets/main-section-05.webp"
+    }
+  ],
+  "navigation": [
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "Home",
+      "box": [
+        649.0,
+        69.0,
+        74.08453369140625,
+        42.0
+      ],
+      "destination": "home"
+    },
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "About Us",
+      "box": [
+        757.0,
+        69.0,
+        104.739990234375,
+        42.0
+      ],
+      "destination": "effortless-money-tools"
+    },
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "Services",
+      "box": [
+        895.0,
+        69.0,
+        98.99798583984375,
+        42.0
+      ],
+      "destination": "contact"
+    },
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "Contact Us",
+      "box": [
+        1147.587890625,
+        69.0,
+        124.699951171875,
+        42.0
+      ],
+      "destination": "contact"
+    },
+    {
+      "kind": "contact",
+      "section": "money-made-simple",
+      "label": "Get Started",
+      "box": [
+        802.861328125,
+        2630.124402189255,
+        95.1217041015625,
+        35.368420696258546
+      ],
+      "destination": null
+    },
+    {
+      "kind": "contact",
+      "section": "money-made-simple",
+      "label": "Get Started",
+      "box": [
+        1301.861328125,
+        2630.124402189255,
+        95.12158203125,
+        35.368420696258546
+      ],
+      "destination": null
+    },
+    {
+      "kind": "contact",
+      "section": "money-made-simple",
+      "label": "Get Started",
+      "box": [
+        802.861328125,
+        2918.124402189255,
+        95.1217041015625,
+        35.368420696258546
+      ],
+      "destination": null
+    },
+    {
+      "kind": "contact",
+      "section": "money-made-simple",
+      "label": "Get Started",
+      "box": [
+        1301.861328125,
+        2918.124402189255,
+        95.12158203125,
+        35.368420696258546
+      ],
+      "destination": null
+    },
+    {
+      "kind": "scroll",
+      "section": "contact",
+      "label": "About",
+      "box": [
+        931.0,
+        6011.085114097596,
+        119.3858642578125,
+        39.301617050170904
+      ],
+      "destination": "effortless-money-tools"
+    },
+    {
+      "kind": "scroll",
+      "section": "contact",
+      "label": "Features",
+      "box": [
+        931.0,
+        6065.085114097596,
+        142.635498046875,
+        39.301617050170904
+      ],
+      "destination": "contact"
+    }
+  ],
+  "rendering": "source-preserving HTML showcase with raster artwork sections",
+  "textLayer": "original PDF copy"
+}

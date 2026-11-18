@@ -1,0 +1,197 @@
+{
+  "slug": "podcast",
+  "name": "Podcast Studio",
+  "file": "Podcast(1).pdf",
+  "category": "Media & Production",
+  "accent": "#efad32",
+  "theme": "light",
+  "motion": "warm",
+  "crop": [
+    92.0,
+    2126.0,
+    1216.0,
+    5595.148
+  ],
+  "cuts": [
+    0,
+    1000,
+    1450,
+    2400,
+    3200,
+    4100,
+    4650,
+    5100,
+    5450,
+    5595.148
+  ],
+  "labels": [
+    "Elevate your voice",
+    "Book a studio",
+    "Why choose our studio",
+    "Rental packages",
+    "Our studio",
+    "Additional services",
+    "Start recording",
+    "What our users say",
+    "Contact"
+  ],
+  "sourceSize": [
+    1400.0,
+    7817.0
+  ],
+  "size": [
+    1216.0,
+    5595.148
+  ],
+  "sections": [
+    {
+      "id": "home",
+      "label": "Elevate your voice",
+      "start": 0.0,
+      "height": 1088.262,
+      "width": 1216.0,
+      "asset": "assets/main-section-01.webp",
+      "pixels": [
+        1921,
+        1720
+      ]
+    },
+    {
+      "id": "book-a-studio",
+      "label": "Book a studio",
+      "start": 1088.262,
+      "height": 263.99400000000014,
+      "width": 1216.0,
+      "asset": "assets/main-section-02.webp",
+      "pixels": [
+        1921,
+        417
+      ]
+    },
+    {
+      "id": "why-choose-our-studio",
+      "label": "Why choose our studio",
+      "start": 1352.256,
+      "height": 930.6249999999998,
+      "width": 1216.0,
+      "asset": "assets/main-section-03.webp",
+      "pixels": [
+        1921,
+        1471
+      ]
+    },
+    {
+      "id": "rental-packages",
+      "label": "Rental packages",
+      "start": 2282.881,
+      "height": 917.1190000000001,
+      "width": 1216.0,
+      "asset": "assets/main-section-04.webp",
+      "pixels": [
+        1921,
+        1449
+      ]
+    },
+    {
+      "id": "our-studio",
+      "label": "Our studio",
+      "start": 3200,
+      "height": 714.3249999999998,
+      "width": 1216.0,
+      "asset": "assets/main-section-05.webp",
+      "pixels": [
+        1921,
+        1129
+      ]
+    },
+    {
+      "id": "additional-services",
+      "label": "Additional services",
+      "start": 3914.325,
+      "height": 735.6750000000002,
+      "width": 1216.0,
+      "asset": "assets/main-section-06.webp",
+      "pixels": [
+        1921,
+        1162
+      ]
+    },
+    {
+      "id": "start-recording",
+      "label": "Start recording",
+      "start": 4650,
+      "height": 512.1220000000003,
+      "width": 1216.0,
+      "asset": "assets/main-section-07.webp",
+      "pixels": [
+        1921,
+        810
+      ]
+    },
+    {
+      "id": "what-our-users-say",
+      "label": "What our users say",
+      "start": 5162.122,
+      "height": 241.20299999999952,
+      "width": 1216.0,
+      "asset": "assets/main-section-08.webp",
+      "pixels": [
+        1921,
+        382
+      ]
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "start": 5403.325,
+      "height": 191.82300000000032,
+      "width": 1216.0,
+      "asset": "assets/main-section-09.webp",
+      "pixels": [
+        1921,
+        304
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "kind": "detail",
+      "section": "our-studio",
+      "label": "Podcast Studio — design detail 1",
+      "box": [
+        85,
+        3450,
+        1040,
+        464.3249999999998
+      ],
+      "asset": "assets/main-section-05.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "home",
+      "label": "Podcast Studio — design detail 2",
+      "box": [
+        620,
+        220,
+        450,
+        540
+      ],
+      "asset": "assets/main-section-01.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "additional-services",
+      "label": "Podcast Studio — design detail 3",
+      "box": [
+        680,
+        4170,
+        400,
+        480.0
+      ],
+      "asset": "assets/main-section-06.webp"
+    }
+  ],
+  "navigation": [],
+  "rendering": "source-preserving HTML showcase with raster artwork sections",
+  "textLayer": "flattened artwork; header OCR for navigation"
+}

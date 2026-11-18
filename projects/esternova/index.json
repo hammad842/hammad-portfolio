@@ -1,0 +1,290 @@
+{
+  "slug": "esternova",
+  "name": "Esternova",
+  "file": "Esternova Website .pdf",
+  "category": "Gaming & Web3",
+  "accent": "#7855d8",
+  "theme": "light",
+  "motion": "tech",
+  "cuts": [
+    0,
+    1040,
+    1800,
+    2840,
+    3850,
+    4840,
+    5800,
+    6557
+  ],
+  "labels": [
+    "The new era of NFT gaming",
+    "What makes us different",
+    "Discover the adventure",
+    "Our collection",
+    "Join the guild",
+    "Our journey ahead",
+    "Contact"
+  ],
+  "sourceSize": [
+    1920.0,
+    6557.0
+  ],
+  "crop": [
+    0.0,
+    0.0,
+    1920.0,
+    6557.0
+  ],
+  "size": [
+    1920.0,
+    6557.0
+  ],
+  "sections": [
+    {
+      "id": "home",
+      "label": "The new era of NFT gaming",
+      "start": 0.0,
+      "height": 1040.0,
+      "width": 1920.0,
+      "asset": "assets/main-section-01.webp",
+      "pixels": [
+        2560,
+        1387
+      ]
+    },
+    {
+      "id": "what-makes-us-different",
+      "label": "What makes us different",
+      "start": 1040,
+      "height": 513.7629999999999,
+      "width": 1920.0,
+      "asset": "assets/main-section-02.webp",
+      "pixels": [
+        2560,
+        686
+      ]
+    },
+    {
+      "id": "discover-the-adventure",
+      "label": "Discover the adventure",
+      "start": 1553.763,
+      "height": 1286.237,
+      "width": 1920.0,
+      "asset": "assets/main-section-03.webp",
+      "pixels": [
+        2560,
+        1716
+      ]
+    },
+    {
+      "id": "our-collection",
+      "label": "Our collection",
+      "start": 2840,
+      "height": 1116.397,
+      "width": 1920.0,
+      "asset": "assets/main-section-04.webp",
+      "pixels": [
+        2560,
+        1490
+      ]
+    },
+    {
+      "id": "join-the-guild",
+      "label": "Join the guild",
+      "start": 3956.397,
+      "height": 908.8609999999999,
+      "width": 1920.0,
+      "asset": "assets/main-section-05.webp",
+      "pixels": [
+        2560,
+        1213
+      ]
+    },
+    {
+      "id": "our-journey-ahead",
+      "label": "Our journey ahead",
+      "start": 4865.258,
+      "height": 1025.844,
+      "width": 1920.0,
+      "asset": "assets/main-section-06.webp",
+      "pixels": [
+        2560,
+        1368
+      ]
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "start": 5891.102,
+      "height": 665.8980000000001,
+      "width": 1920.0,
+      "asset": "assets/main-section-07.webp",
+      "pixels": [
+        2560,
+        889
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "kind": "detail",
+      "section": "home",
+      "label": "Esternova — design detail 1",
+      "box": [
+        1132.5999755859375,
+        326.599853515625,
+        787.4000244140625,
+        713.400146484375
+      ],
+      "asset": "assets/main-section-01.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "discover-the-adventure",
+      "label": "Esternova — design detail 2",
+      "box": [
+        0,
+        1553.763,
+        780.4000244140625,
+        1197.63690234375
+      ],
+      "asset": "assets/main-section-03.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "our-journey-ahead",
+      "label": "Esternova — design detail 3",
+      "box": [
+        1150.9000244140625,
+        4865.258,
+        769.0999755859375,
+        537.8420976562502
+      ],
+      "asset": "assets/main-section-06.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "discover-the-adventure",
+      "label": "Esternova — design detail 4",
+      "box": [
+        1107.9974365234375,
+        2009.4833984375,
+        572.14404296875,
+        719.8876953125
+      ],
+      "asset": "assets/main-section-03.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "join-the-guild",
+      "label": "Esternova — design detail 5",
+      "box": [
+        588.0252075195312,
+        4103.94189453125,
+        454.94842529296875,
+        511.17822265625
+      ],
+      "asset": "assets/main-section-05.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "our-collection",
+      "label": "Esternova — design detail 6",
+      "box": [
+        593.1966552734375,
+        3269.4599609375,
+        300.607177734375,
+        353.550048828125
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "our-collection",
+      "label": "Esternova — design detail 7",
+      "box": [
+        1463.196533203125,
+        3269.4599609375,
+        300.607177734375,
+        353.550048828125
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "our-collection",
+      "label": "Esternova — design detail 8",
+      "box": [
+        158.53445434570312,
+        3269.4560546875,
+        299.9315185546875,
+        353.553955078125
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "our-collection",
+      "label": "Esternova — design detail 9",
+      "box": [
+        1028.535888671875,
+        3269.4599609375,
+        299.9281005859375,
+        353.550048828125
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "join-the-guild",
+      "label": "Esternova — design detail 10",
+      "box": [
+        144.525634765625,
+        4238.861328125,
+        326.94818115234375,
+        318.06884765625
+      ],
+      "asset": "assets/main-section-05.webp"
+    }
+  ],
+  "navigation": [
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "Home",
+      "box": [
+        983.0,
+        67.7,
+        77.8341064453125,
+        39.8
+      ],
+      "destination": "home"
+    },
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "About",
+      "box": [
+        983.0,
+        100.7,
+        78.7269287109375,
+        39.8
+      ],
+      "destination": "what-makes-us-different"
+    },
+    {
+      "kind": "scroll",
+      "section": "contact",
+      "label": "Home",
+      "box": [
+        113.0,
+        6142.75,
+        100.32499694824219,
+        47.5
+      ],
+      "destination": "home"
+    }
+  ],
+  "rendering": "source-preserving HTML showcase with raster artwork sections",
+  "textLayer": "original PDF copy"
+}

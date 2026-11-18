@@ -1,0 +1,190 @@
+{
+  "slug": "chinese-brother",
+  "name": "Chinese Brother",
+  "file": "Chinese Brother.pdf",
+  "category": "Food & Hospitality",
+  "accent": "#f5b52d",
+  "theme": "light",
+  "motion": "warm",
+  "crop": [
+    0.0,
+    1050.0,
+    1400.0,
+    3588.3099999999995
+  ],
+  "cuts": [
+    0,
+    940,
+    1580,
+    2520,
+    3150,
+    3588.31
+  ],
+  "labels": [
+    "Welcome to Chinese Brother",
+    "Our story",
+    "Explore our menu",
+    "Why choose us",
+    "Visit and contact"
+  ],
+  "sourceSize": [
+    1400.0,
+    4638.31005859375
+  ],
+  "size": [
+    1400.0,
+    3588.3099999999995
+  ],
+  "sections": [
+    {
+      "id": "home",
+      "label": "Welcome to Chinese Brother",
+      "start": 0.0,
+      "height": 937.506,
+      "width": 1400.0,
+      "asset": "assets/main-section-01.webp",
+      "pixels": [
+        1920,
+        1286
+      ]
+    },
+    {
+      "id": "our-story",
+      "label": "Our story",
+      "start": 937.506,
+      "height": 598.7800000000001,
+      "width": 1400.0,
+      "asset": "assets/main-section-02.webp",
+      "pixels": [
+        1920,
+        822
+      ]
+    },
+    {
+      "id": "explore-our-menu",
+      "label": "Explore our menu",
+      "start": 1536.286,
+      "height": 924.3939999999998,
+      "width": 1400.0,
+      "asset": "assets/main-section-03.webp",
+      "pixels": [
+        1920,
+        1269
+      ]
+    },
+    {
+      "id": "why-choose-us",
+      "label": "Why choose us",
+      "start": 2460.68,
+      "height": 677.4520000000002,
+      "width": 1400.0,
+      "asset": "assets/main-section-04.webp",
+      "pixels": [
+        1920,
+        930
+      ]
+    },
+    {
+      "id": "visit-and-contact",
+      "label": "Visit and contact",
+      "start": 3138.132,
+      "height": 450.1779999999999,
+      "width": 1400.0,
+      "asset": "assets/main-section-05.webp",
+      "pixels": [
+        1920,
+        619
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "kind": "detail",
+      "section": "home",
+      "label": "Chinese Brother — product detail 1",
+      "box": [
+        760,
+        180,
+        550,
+        650
+      ],
+      "asset": "assets/main-section-01.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "explore-our-menu",
+      "label": "Chinese Brother — product detail 2",
+      "box": [
+        760,
+        1760,
+        540,
+        640
+      ],
+      "asset": "assets/main-section-03.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "our-story",
+      "label": "Chinese Brother — product detail 3",
+      "box": [
+        75,
+        1050,
+        520,
+        480
+      ],
+      "asset": "assets/main-section-02.webp"
+    }
+  ],
+  "navigation": [
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "Home",
+      "box": [
+        326.0,
+        58.182254545454555,
+        74.78260869565219,
+        33.392942857142856
+      ],
+      "destination": "home"
+    },
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "Our Menu",
+      "box": [
+        434.34782608695656,
+        69.14011688311689,
+        107.65217391304348,
+        33.392942857142856
+      ],
+      "destination": "explore-our-menu"
+    },
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "Contact",
+      "box": [
+        845.8260869565217,
+        69.14011688311689,
+        94.26086956521739,
+        33.392942857142856
+      ],
+      "destination": "visit-and-contact"
+    },
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "About Us",
+      "box": [
+        973.6521739130435,
+        69.14011688311689,
+        101.56521739130436,
+        33.392942857142856
+      ],
+      "destination": "our-story"
+    }
+  ],
+  "rendering": "source-preserving HTML showcase with raster artwork sections",
+  "textLayer": "flattened artwork; header OCR for navigation"
+}

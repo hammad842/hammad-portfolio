@@ -1,0 +1,466 @@
+{
+  "slug": "asan-real-estate",
+  "name": "Asan Real Estate",
+  "file": "Asan Real Estate.pdf",
+  "category": "SaaS & Real Estate",
+  "accent": "#6f247d",
+  "theme": "light",
+  "motion": "saas",
+  "cuts": [
+    0,
+    1600,
+    2450,
+    3330,
+    4200,
+    5160,
+    6460,
+    7850,
+    8720,
+    10350,
+    11000,
+    11642
+  ],
+  "labels": [
+    "Smart real estate CRM",
+    "Industry experts",
+    "Your real estate team",
+    "Innovative tools",
+    "Real-time workflows",
+    "News and insights",
+    "New features",
+    "Customer stories",
+    "Pricing",
+    "AI-powered CRM",
+    "Contact"
+  ],
+  "sourceSize": [
+    1728.0,
+    11642.0
+  ],
+  "crop": [
+    0.0,
+    0.0,
+    1728.0,
+    11642.0
+  ],
+  "size": [
+    1728.0,
+    11642.0
+  ],
+  "sections": [
+    {
+      "id": "home",
+      "label": "Smart real estate CRM",
+      "start": 0.0,
+      "height": 1565.946,
+      "width": 1728.0,
+      "asset": "assets/main-section-01.webp",
+      "pixels": [
+        2333,
+        2115
+      ]
+    },
+    {
+      "id": "industry-experts",
+      "label": "Industry experts",
+      "start": 1565.946,
+      "height": 963.8670000000002,
+      "width": 1728.0,
+      "asset": "assets/main-section-02.webp",
+      "pixels": [
+        2333,
+        1302
+      ]
+    },
+    {
+      "id": "your-real-estate-team",
+      "label": "Your real estate team",
+      "start": 2529.813,
+      "height": 742.4749999999999,
+      "width": 1728.0,
+      "asset": "assets/main-section-03.webp",
+      "pixels": [
+        2333,
+        1003
+      ]
+    },
+    {
+      "id": "innovative-tools",
+      "label": "Innovative tools",
+      "start": 3272.288,
+      "height": 728.9749999999999,
+      "width": 1728.0,
+      "asset": "assets/main-section-04.webp",
+      "pixels": [
+        2333,
+        986
+      ]
+    },
+    {
+      "id": "real-time-workflows",
+      "label": "Real-time workflows",
+      "start": 4001.263,
+      "height": 1142.0600000000004,
+      "width": 1728.0,
+      "asset": "assets/main-section-05.webp",
+      "pixels": [
+        2333,
+        1543
+      ]
+    },
+    {
+      "id": "news-and-insights",
+      "label": "News and insights",
+      "start": 5143.323,
+      "height": 1198.759,
+      "width": 1728.0,
+      "asset": "assets/main-section-06.webp",
+      "pixels": [
+        2333,
+        1619
+      ]
+    },
+    {
+      "id": "new-features",
+      "label": "New features",
+      "start": 6342.082,
+      "height": 1306.755,
+      "width": 1728.0,
+      "asset": "assets/main-section-07.webp",
+      "pixels": [
+        2333,
+        1765
+      ]
+    },
+    {
+      "id": "customer-stories",
+      "label": "Customer stories",
+      "start": 7648.837,
+      "height": 1020.5649999999996,
+      "width": 1728.0,
+      "asset": "assets/main-section-08.webp",
+      "pixels": [
+        2333,
+        1379
+      ]
+    },
+    {
+      "id": "pricing",
+      "label": "Pricing",
+      "start": 8669.402,
+      "height": 1700.941999999999,
+      "width": 1728.0,
+      "asset": "assets/main-section-09.webp",
+      "pixels": [
+        2333,
+        2298
+      ]
+    },
+    {
+      "id": "ai-powered-crm",
+      "label": "AI-powered CRM",
+      "start": 10370.344,
+      "height": 564.2800000000007,
+      "width": 1728.0,
+      "asset": "assets/main-section-10.webp",
+      "pixels": [
+        2333,
+        763
+      ]
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "start": 10934.624,
+      "height": 707.3760000000002,
+      "width": 1728.0,
+      "asset": "assets/main-section-11.webp",
+      "pixels": [
+        2333,
+        956
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "kind": "detail",
+      "section": "your-real-estate-team",
+      "label": "Asan Real Estate — design detail 1",
+      "box": [
+        0,
+        2533.950439453125,
+        985.457275390625,
+        738.337560546875
+      ],
+      "asset": "assets/main-section-03.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "industry-experts",
+      "label": "Asan Real Estate — design detail 2",
+      "box": [
+        404.174072265625,
+        1706.1571044921875,
+        922.279296875,
+        823.6558955078126
+      ],
+      "asset": "assets/main-section-02.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "your-real-estate-team",
+      "label": "Asan Real Estate — design detail 3",
+      "box": [
+        605.3440551757812,
+        2529.813,
+        1122.6559448242188,
+        742.4749999999999
+      ],
+      "asset": "assets/main-section-03.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "industry-experts",
+      "label": "Asan Real Estate — design detail 4",
+      "box": [
+        0,
+        1724.7213134765625,
+        926.518310546875,
+        805.0916865234376
+      ],
+      "asset": "assets/main-section-02.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "real-time-workflows",
+      "label": "Asan Real Estate — design detail 5",
+      "box": [
+        1012.1441040039062,
+        4007.689453125,
+        627.7117309570312,
+        1115.93212890625
+      ],
+      "asset": "assets/main-section-05.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "real-time-workflows",
+      "label": "Asan Real Estate — design detail 6",
+      "box": [
+        0,
+        4026.0,
+        1115.7657470703125,
+        605.0
+      ],
+      "asset": "assets/main-section-05.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "customer-stories",
+      "label": "Asan Real Estate — design detail 7",
+      "box": [
+        0,
+        7673.0,
+        1098.0,
+        574.0
+      ],
+      "asset": "assets/main-section-08.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "new-features",
+      "label": "Asan Real Estate — design detail 8",
+      "box": [
+        470.081298828125,
+        6843.6865234375,
+        788.510009765625,
+        790.6259765625
+      ],
+      "asset": "assets/main-section-07.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "pricing",
+      "label": "Asan Real Estate — design detail 9",
+      "box": [
+        618.0,
+        8969.0,
+        490.0,
+        1231.0
+      ],
+      "asset": "assets/main-section-09.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "news-and-insights",
+      "label": "Asan Real Estate — design detail 10",
+      "box": [
+        198.5,
+        5502.5,
+        681.0,
+        827.0
+      ],
+      "asset": "assets/main-section-06.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "news-and-insights",
+      "label": "Asan Real Estate — design detail 11",
+      "box": [
+        879.5,
+        5502.5,
+        681.0,
+        827.0
+      ],
+      "asset": "assets/main-section-06.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "pricing",
+      "label": "Asan Real Estate — design detail 12",
+      "box": [
+        132.0,
+        9025.0,
+        446.0,
+        1119.0
+      ],
+      "asset": "assets/main-section-09.webp"
+    }
+  ],
+  "navigation": [
+    {
+      "kind": "contact",
+      "section": "home",
+      "label": "Get Started",
+      "box": [
+        1286.85009765625,
+        83.55,
+        117.3590087890625,
+        38.7
+      ],
+      "destination": null
+    },
+    {
+      "kind": "scroll",
+      "section": "your-real-estate-team",
+      "label": "Watch our",
+      "box": [
+        1471.8658447265625,
+        2632.25,
+        103.6732177734375,
+        36.5
+      ],
+      "destination": "industry-experts"
+    },
+    {
+      "kind": "scroll",
+      "section": "news-and-insights",
+      "label": "Read More",
+      "box": [
+        639.0,
+        6197.55,
+        111.963623046875,
+        38.7
+      ],
+      "destination": "industry-experts"
+    },
+    {
+      "kind": "scroll",
+      "section": "news-and-insights",
+      "label": "Read More",
+      "box": [
+        1320.0,
+        6197.55,
+        111.963623046875,
+        38.7
+      ],
+      "destination": "industry-experts"
+    },
+    {
+      "kind": "scroll",
+      "section": "pricing",
+      "label": "Pricing",
+      "box": [
+        125.0,
+        8917.95,
+        210.80001831054688,
+        78.30000000000001
+      ],
+      "destination": "pricing"
+    },
+    {
+      "kind": "scroll",
+      "section": "pricing",
+      "label": "Contact Us",
+      "box": [
+        1179.0,
+        9070.75,
+        159.1500244140625,
+        47.5
+      ],
+      "destination": "contact"
+    },
+    {
+      "kind": "scroll",
+      "section": "pricing",
+      "label": "Contact us",
+      "box": [
+        1206.0,
+        9752.55,
+        115.2279052734375,
+        38.7
+      ],
+      "destination": "contact"
+    },
+    {
+      "kind": "contact",
+      "section": "ai-powered-crm",
+      "label": "Get Started",
+      "box": [
+        243.0,
+        10774.75,
+        164.314453125,
+        47.5
+      ],
+      "destination": null
+    },
+    {
+      "kind": "scroll",
+      "section": "contact",
+      "label": "About Us",
+      "box": [
+        605.0,
+        11046.4,
+        92.28802490234375,
+        37.6
+      ],
+      "destination": "industry-experts"
+    },
+    {
+      "kind": "scroll",
+      "section": "contact",
+      "label": "Contact Us",
+      "box": [
+        605.0,
+        11091.4,
+        109.0560302734375,
+        37.6
+      ],
+      "destination": "contact"
+    },
+    {
+      "kind": "contact",
+      "section": "contact",
+      "label": "Subscribe",
+      "box": [
+        1102.0,
+        11444.15,
+        133.83349609375,
+        43.1
+      ],
+      "destination": null
+    }
+  ],
+  "rendering": "source-preserving HTML showcase with raster artwork sections",
+  "textLayer": "original PDF copy"
+}

@@ -1,0 +1,306 @@
+{
+  "slug": "financial",
+  "name": "Financial",
+  "file": "Financial.pdf",
+  "category": "Banking & Finance",
+  "accent": "#fff231",
+  "theme": "light",
+  "motion": "corporate",
+  "cuts": [
+    0,
+    1690,
+    1850,
+    3150,
+    3760,
+    4700,
+    5670,
+    6440,
+    6930,
+    7718
+  ],
+  "labels": [
+    "Islamic finance and banking",
+    "Our principles",
+    "Our services",
+    "Our impact",
+    "What makes us different",
+    "Testimonials",
+    "Let us talk",
+    "How can we help",
+    "Contact"
+  ],
+  "sourceSize": [
+    1920.0,
+    7718.31982421875
+  ],
+  "crop": [
+    0.0,
+    0.0,
+    1920.0,
+    7718.31982421875
+  ],
+  "size": [
+    1920.0,
+    7718.31982421875
+  ],
+  "sections": [
+    {
+      "id": "home",
+      "label": "Islamic finance and banking",
+      "start": 0.0,
+      "height": 1673.202,
+      "width": 1920.0,
+      "asset": "assets/main-section-01.webp",
+      "pixels": [
+        2560,
+        2231
+      ]
+    },
+    {
+      "id": "our-principles",
+      "label": "Our principles",
+      "start": 1673.202,
+      "height": 326.84400000000005,
+      "width": 1920.0,
+      "asset": "assets/main-section-02.webp",
+      "pixels": [
+        2560,
+        437
+      ]
+    },
+    {
+      "id": "our-services",
+      "label": "Our services",
+      "start": 2000.046,
+      "height": 1136.4579999999999,
+      "width": 1920.0,
+      "asset": "assets/main-section-03.webp",
+      "pixels": [
+        2560,
+        1517
+      ]
+    },
+    {
+      "id": "our-impact",
+      "label": "Our impact",
+      "start": 3136.504,
+      "height": 578.7249999999999,
+      "width": 1920.0,
+      "asset": "assets/main-section-04.webp",
+      "pixels": [
+        2560,
+        772
+      ]
+    },
+    {
+      "id": "what-makes-us-different",
+      "label": "What makes us different",
+      "start": 3715.229,
+      "height": 1037.5050000000006,
+      "width": 1920.0,
+      "asset": "assets/main-section-05.webp",
+      "pixels": [
+        2560,
+        1384
+      ]
+    },
+    {
+      "id": "testimonials",
+      "label": "Testimonials",
+      "start": 4752.734,
+      "height": 791.6219999999994,
+      "width": 1920.0,
+      "asset": "assets/main-section-06.webp",
+      "pixels": [
+        2560,
+        1057
+      ]
+    },
+    {
+      "id": "let-us-talk",
+      "label": "Let us talk",
+      "start": 5544.356,
+      "height": 920.5610000000006,
+      "width": 1920.0,
+      "asset": "assets/main-section-07.webp",
+      "pixels": [
+        2560,
+        1228
+      ]
+    },
+    {
+      "id": "how-can-we-help",
+      "label": "How can we help",
+      "start": 6464.917,
+      "height": 392.8129999999992,
+      "width": 1920.0,
+      "asset": "assets/main-section-08.webp",
+      "pixels": [
+        2560,
+        525
+      ]
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "start": 6857.73,
+      "height": 860.5900000000001,
+      "width": 1920.0,
+      "asset": "assets/main-section-09.webp",
+      "pixels": [
+        2560,
+        1149
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "kind": "detail",
+      "section": "our-services",
+      "label": "Financial — design detail 1",
+      "box": [
+        682.35986328125,
+        2049.919921875,
+        1237.64013671875,
+        810.171875
+      ],
+      "asset": "assets/main-section-03.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "what-makes-us-different",
+      "label": "Financial — design detail 2",
+      "box": [
+        169.0,
+        3930.0,
+        938.0,
+        742.0
+      ],
+      "asset": "assets/main-section-05.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "our-services",
+      "label": "Financial — design detail 3",
+      "box": [
+        99.02095794677734,
+        2000.046,
+        868.4435806274414,
+        535.0272421875
+      ],
+      "asset": "assets/main-section-03.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "our-services",
+      "label": "Financial — design detail 4",
+      "box": [
+        127.15980529785156,
+        2431.28466796875,
+        801.5770111083984,
+        701.63818359375
+      ],
+      "asset": "assets/main-section-03.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "what-makes-us-different",
+      "label": "Financial — design detail 5",
+      "box": [
+        1369.0,
+        3786.0,
+        382.0,
+        886.0
+      ],
+      "asset": "assets/main-section-05.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "testimonials",
+      "label": "Financial — design detail 6",
+      "box": [
+        1156.1685791015625,
+        5173.37109375,
+        289.5191650390625,
+        361.8427734375
+      ],
+      "asset": "assets/main-section-06.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "testimonials",
+      "label": "Financial — design detail 7",
+      "box": [
+        297.83966064453125,
+        5172.8330078125,
+        246.62164306640625,
+        306.533203125
+      ],
+      "asset": "assets/main-section-06.webp"
+    }
+  ],
+  "navigation": [
+    {
+      "kind": "scroll",
+      "section": "what-makes-us-different",
+      "label": "LEARN MORE",
+      "box": [
+        281.7987976074219,
+        4476.206474208831,
+        208.45770263671875,
+        45.61515102386475
+      ],
+      "destination": "our-principles"
+    },
+    {
+      "kind": "scroll",
+      "section": "testimonials",
+      "label": "TESTIMONIALS",
+      "box": [
+        795.91259765625,
+        4875.1,
+        328.2440185546875,
+        57.400000000000006
+      ],
+      "destination": "testimonials"
+    },
+    {
+      "kind": "scroll",
+      "section": "contact",
+      "label": "Home",
+      "box": [
+        130.9561004638672,
+        7158.1824197769165,
+        96.822265625,
+        45.64628028869629
+      ],
+      "destination": "home"
+    },
+    {
+      "kind": "scroll",
+      "section": "contact",
+      "label": "About Us",
+      "box": [
+        513.03857421875,
+        7158.1824197769165,
+        141.120361328125,
+        45.64628028869629
+      ],
+      "destination": "our-principles"
+    },
+    {
+      "kind": "scroll",
+      "section": "contact",
+      "label": "Contact",
+      "box": [
+        861.011962890625,
+        7158.1824197769165,
+        123.5177001953125,
+        45.64628028869629
+      ],
+      "destination": "contact"
+    }
+  ],
+  "rendering": "source-preserving HTML showcase with raster artwork sections",
+  "textLayer": "original PDF copy"
+}

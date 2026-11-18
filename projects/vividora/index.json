@@ -1,0 +1,278 @@
+{
+  "slug": "vividora",
+  "name": "Vividora",
+  "file": "Vividora.pdf",
+  "category": "Beauty & E-commerce",
+  "accent": "#687388",
+  "theme": "light",
+  "motion": "organic",
+  "crop": [
+    0.0,
+    1050.0,
+    1400.0,
+    5081.24
+  ],
+  "cuts": [
+    0,
+    1000,
+    1600,
+    2150,
+    3000,
+    3680,
+    4440,
+    5081.24
+  ],
+  "labels": [
+    "Healthy hair and beauty",
+    "Our categories",
+    "Trending products",
+    "Our products",
+    "Glow with our products",
+    "Product reviews",
+    "Contact"
+  ],
+  "sourceSize": [
+    1400.0,
+    6131.240234375
+  ],
+  "size": [
+    1400.0,
+    5081.24
+  ],
+  "sections": [
+    {
+      "id": "home",
+      "label": "Healthy hair and beauty",
+      "start": 0.0,
+      "height": 1010.126,
+      "width": 1400.0,
+      "asset": "assets/main-section-01.webp",
+      "pixels": [
+        1920,
+        1386
+      ]
+    },
+    {
+      "id": "our-categories",
+      "label": "Our categories",
+      "start": 1010.126,
+      "height": 376.0640000000001,
+      "width": 1400.0,
+      "asset": "assets/main-section-02.webp",
+      "pixels": [
+        1920,
+        517
+      ]
+    },
+    {
+      "id": "trending-products",
+      "label": "Trending products",
+      "start": 1386.19,
+      "height": 714.96,
+      "width": 1400.0,
+      "asset": "assets/main-section-03.webp",
+      "pixels": [
+        1920,
+        981
+      ]
+    },
+    {
+      "id": "our-products",
+      "label": "Our products",
+      "start": 2101.15,
+      "height": 861.4490000000001,
+      "width": 1400.0,
+      "asset": "assets/main-section-04.webp",
+      "pixels": [
+        1920,
+        1182
+      ]
+    },
+    {
+      "id": "glow-with-our-products",
+      "label": "Glow with our products",
+      "start": 2962.599,
+      "height": 754.315,
+      "width": 1400.0,
+      "asset": "assets/main-section-05.webp",
+      "pixels": [
+        1920,
+        1036
+      ]
+    },
+    {
+      "id": "product-reviews",
+      "label": "Product reviews",
+      "start": 3716.914,
+      "height": 706.2139999999995,
+      "width": 1400.0,
+      "asset": "assets/main-section-06.webp",
+      "pixels": [
+        1920,
+        970
+      ]
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "start": 4423.128,
+      "height": 658.1120000000001,
+      "width": 1400.0,
+      "asset": "assets/main-section-07.webp",
+      "pixels": [
+        1920,
+        903
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "kind": "detail",
+      "section": "trending-products",
+      "label": "Vividora — product detail 1",
+      "box": [
+        498.2496337890625,
+        1396.751708984375,
+        901.7503662109375,
+        704.3982910156251
+      ],
+      "asset": "assets/main-section-03.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "glow-with-our-products",
+      "label": "Vividora — product detail 2",
+      "box": [
+        540.1451416015625,
+        3011.302734375,
+        859.8548583984375,
+        655.57275390625
+      ],
+      "asset": "assets/main-section-05.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "home",
+      "label": "Vividora — product detail 3",
+      "box": [
+        345.6656494140625,
+        173.44873046875,
+        668.5760498046875,
+        752.9521484375
+      ],
+      "asset": "assets/main-section-01.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "product-reviews",
+      "label": "Vividora — product detail 4",
+      "box": [
+        677.237060546875,
+        3974.61572265625,
+        697.8480224609375,
+        391.17626953125
+      ],
+      "asset": "assets/main-section-06.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "product-reviews",
+      "label": "Vividora — product detail 5",
+      "box": [
+        67.17511749267578,
+        3974.61572265625,
+        697.848014831543,
+        391.17626953125
+      ],
+      "asset": "assets/main-section-06.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "our-products",
+      "label": "Vividora — product detail 6",
+      "box": [
+        398.21240234375,
+        2307.22265625,
+        577.8544921875,
+        385.283447265625
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "our-products",
+      "label": "Vividora — product detail 7",
+      "box": [
+        829.3577270507812,
+        2306.8896484375,
+        570.6422729492188,
+        385.94873046875
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "our-products",
+      "label": "Vividora — product detail 8",
+      "box": [
+        0,
+        2307.22265625,
+        558.893798828125,
+        385.283447265625
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "trending-products",
+      "label": "Vividora — product detail 9",
+      "box": [
+        0,
+        1691.467041015625,
+        516.8731079101562,
+        348.958984375
+      ],
+      "asset": "assets/main-section-03.webp"
+    }
+  ],
+  "navigation": [
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "HOME",
+      "box": [
+        80.08695652173914,
+        71.54029156626505,
+        72.34782608695653,
+        35.821250602409634
+      ],
+      "destination": "home"
+    },
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "SHOP",
+      "box": [
+        182.34782608695653,
+        72.75731084337349,
+        63.82608695652174,
+        33.387212048192765
+      ],
+      "destination": "our-categories"
+    },
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "ABOUT",
+      "box": [
+        985.8260869565217,
+        72.75731084337349,
+        77.21739130434783,
+        34.6042313253012
+      ],
+      "destination": "our-categories"
+    }
+  ],
+  "rendering": "source-preserving HTML showcase with raster artwork sections",
+  "textLayer": "flattened artwork; header OCR for navigation"
+}

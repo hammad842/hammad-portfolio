@@ -1,0 +1,157 @@
+{
+  "slug": "steroid",
+  "name": "Steroid",
+  "file": "Steroid Website.pdf",
+  "category": "Technology & Consulting",
+  "accent": "#bb8b78",
+  "theme": "dark",
+  "motion": "tech",
+  "crop": [
+    0.0,
+    1049.998,
+    1400.0,
+    5265.312
+  ],
+  "cuts": [
+    0,
+    970,
+    1800,
+    2400,
+    3400,
+    4050,
+    4750,
+    5265.312
+  ],
+  "labels": [
+    "Innovating the future of business",
+    "Backed by experts",
+    "Corporate excellence",
+    "Research and creativity",
+    "Product design",
+    "What our clients say",
+    "Contact"
+  ],
+  "sourceSize": [
+    1400.0,
+    6315.31005859375
+  ],
+  "size": [
+    1400.0,
+    5265.312
+  ],
+  "sections": [
+    {
+      "id": "home",
+      "label": "Innovating the future of business",
+      "start": 0.0,
+      "height": 970.847,
+      "width": 1400.0,
+      "asset": "assets/main-section-01.webp",
+      "pixels": [
+        1920,
+        1333
+      ]
+    },
+    {
+      "id": "backed-by-experts",
+      "label": "Backed by experts",
+      "start": 970.847,
+      "height": 911.808,
+      "width": 1400.0,
+      "asset": "assets/main-section-02.webp",
+      "pixels": [
+        1920,
+        1251
+      ]
+    },
+    {
+      "id": "corporate-excellence",
+      "label": "Corporate excellence",
+      "start": 1882.655,
+      "height": 581.633,
+      "width": 1400.0,
+      "asset": "assets/main-section-03.webp",
+      "pixels": [
+        1920,
+        799
+      ]
+    },
+    {
+      "id": "research-and-creativity",
+      "label": "Research and creativity",
+      "start": 2464.288,
+      "height": 892.1300000000001,
+      "width": 1400.0,
+      "asset": "assets/main-section-04.webp",
+      "pixels": [
+        1920,
+        1225
+      ]
+    },
+    {
+      "id": "product-design",
+      "label": "Product design",
+      "start": 3356.418,
+      "height": 750.0009999999997,
+      "width": 1400.0,
+      "asset": "assets/main-section-05.webp",
+      "pixels": [
+        1920,
+        1029
+      ]
+    },
+    {
+      "id": "what-our-clients-say",
+      "label": "What our clients say",
+      "start": 4106.419,
+      "height": 734.6940000000004,
+      "width": 1400.0,
+      "asset": "assets/main-section-06.webp",
+      "pixels": [
+        1920,
+        1009
+      ]
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "start": 4841.113,
+      "height": 424.1989999999996,
+      "width": 1400.0,
+      "asset": "assets/main-section-07.webp",
+      "pixels": [
+        1920,
+        582
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "kind": "detail",
+      "section": "research-and-creativity",
+      "label": "Steroid — design detail 1",
+      "box": [
+        750,
+        2640,
+        510,
+        520
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "backed-by-experts",
+      "label": "Steroid — design detail 2",
+      "box": [
+        770,
+        1510,
+        500,
+        372.655
+      ],
+      "asset": "assets/main-section-02.webp"
+    }
+  ],
+  "navigation": [],
+  "rendering": "source-preserving HTML showcase with raster artwork sections",
+  "textLayer": "flattened artwork; header OCR for navigation"
+}

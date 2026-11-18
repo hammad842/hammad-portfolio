@@ -1,0 +1,36 @@
+/* Cinematic portfolio motion; the original design is the resting state. */
+.motion-ready .motion-reveal:not(.is-revealed){opacity:0}
+.motion-ready .image-frame img{transition:transform 950ms cubic-bezier(.16,1,.3,1);transform-origin:50% 50%}
+.motion-ready .image-frame.is-hovered img{transform:scale(1.055)}
+.motion-ready .hero .image-frame img{transition:none;will-change:transform}
+.motion-ready #copy-0{will-change:transform}
+.motion-ready .masthead button,.motion-ready .intro [data-action=studio],.motion-ready .collection .vector[data-action=shop]{transform:translate3d(var(--magnet-x,0px),var(--magnet-y,0px),0);transition:transform 450ms cubic-bezier(.16,1,.3,1)}
+.motion-ready .footer .copy[role=button]{transition:color 250ms ease}
+.motion-ready .footer .copy[role=button]:hover,.motion-ready .footer .copy[role=button]:focus-visible{color:#f4a81d}
+.motion-ready .footer .copy .glyph{transition:transform 450ms cubic-bezier(.16,1,.3,1)}
+.motion-ready .footer .copy[role=button]:hover .glyph{transform:translateY(-4px)}
+.marquee-track,.tilt-shell{position:absolute;inset:0;pointer-events:none}
+.marquee-track{will-change:transform}
+.marquee-track .copy{pointer-events:auto}
+.tilt-shell{transform:translate3d(0,var(--float-y,0px),0) rotate(var(--float-r,0deg));transform-origin:80% 50%;will-change:transform}
+.tilt-shell .tilted{pointer-events:auto}
+.scroll-progress{position:fixed;left:0;top:0;width:100%;height:2px;transform:scaleX(0);transform-origin:left;background:#f4a81d;z-index:30;pointer-events:none}
+.portfolio-cursor{position:fixed;left:0;top:0;display:grid;place-items:center;width:72px;height:72px;border-radius:50%;background:#f4a81d;color:#101010;font:10px/1 Arial,sans-serif;font-weight:700;letter-spacing:1.8px;z-index:40;pointer-events:none;opacity:0;scale:.55;transition:opacity 220ms ease,scale 500ms cubic-bezier(.16,1,.3,1);will-change:transform}
+.portfolio-cursor.is-active{opacity:1;scale:1}
+@media(hover:hover) and (pointer:fine){.motion-ready.has-portfolio-cursor .image-frame:not(.photo-52):not(.photo-64){cursor:none}}
+dialog[data-kind=menu]{width:min(1100px,calc(100vw - 64px));padding:clamp(28px,5vw,70px);border-color:#555;overflow:auto}
+dialog[data-kind=menu] h2{font-size:clamp(32px,6vw,70px);font-weight:400;letter-spacing:-.06em;margin:0 0 30px}
+dialog[data-kind=menu] .dialog-nav{margin:0 0 34px;gap:0}
+dialog[data-kind=menu] .dialog-nav button{font-size:clamp(23px,4vw,46px);letter-spacing:-.04em;border:0;border-top:1px solid #7777;padding:14px 0;transition:color 200ms, padding-left 450ms cubic-bezier(.16,1,.3,1)}
+dialog[data-kind=menu] .dialog-nav button:hover{padding-left:18px;color:#f4a81d}
+dialog[data-kind=menu] select{max-width:260px;display:block;margin-bottom:0}
+.motion-ready dialog[open] .dialog-nav button{animation:menu-item 700ms cubic-bezier(.16,1,.3,1) both}
+.motion-ready dialog[open] .dialog-nav button:nth-child(2){animation-delay:50ms}.motion-ready dialog[open] .dialog-nav button:nth-child(3){animation-delay:100ms}.motion-ready dialog[open] .dialog-nav button:nth-child(4){animation-delay:150ms}
+@keyframes menu-item{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+::view-transition-old(root){animation:none}
+::view-transition-new(root){animation:theme-reveal 900ms cubic-bezier(.76,0,.24,1) both}
+@keyframes theme-reveal{from{clip-path:circle(0% at 95% 5%)}to{clip-path:circle(150% at 95% 5%)}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}.motion-reveal{opacity:1!important}.portfolio-cursor,.scroll-progress{display:none!important}::view-transition-new(root){animation:none}}
+@media print{.motion-reveal{opacity:1!important}.portfolio-cursor,.scroll-progress{display:none!important}.marquee-track,.tilt-shell{transform:none!important}.image-frame img,#copy-0{transform:none!important}}
+
+.motion-ready:not(.motion-entered) #masthead,.motion-ready:not(.motion-entered) .hero .hero-heading,.motion-ready:not(.motion-entered) .hero .image-frame{visibility:hidden}

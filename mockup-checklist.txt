@@ -1,0 +1,4 @@
+Website Portfolio.pdf is excluded.
+20 individual website projects remain.
+13 original-banner SVG device mockups generated; 7 original device presentations retained.
+Every gallery image uses its natural aspect ratio without cropping.

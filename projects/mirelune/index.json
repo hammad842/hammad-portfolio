@@ -1,0 +1,398 @@
+{
+  "slug": "mirelune",
+  "name": "MIRELUNE",
+  "file": "MIRELUNE Website.pdf",
+  "category": "Jewellery & Luxury",
+  "accent": "#b79b78",
+  "theme": "light",
+  "motion": "luxury",
+  "cuts": [
+    0,
+    1250,
+    2700,
+    3520,
+    5250,
+    6150,
+    7550,
+    8268
+  ],
+  "labels": [
+    "The beauty of adornments",
+    "Discover our collection",
+    "Precious detail",
+    "New arrivals",
+    "Jewellery stories",
+    "What people say",
+    "Contact"
+  ],
+  "sourceSize": [
+    1920.0,
+    8268.0
+  ],
+  "crop": [
+    0.0,
+    0.0,
+    1920.0,
+    8268.0
+  ],
+  "size": [
+    1920.0,
+    8268.0
+  ],
+  "sections": [
+    {
+      "id": "home",
+      "label": "The beauty of adornments",
+      "start": 0.0,
+      "height": 1353.0,
+      "width": 1920.0,
+      "asset": "assets/main-section-01.webp",
+      "pixels": [
+        2560,
+        1804
+      ]
+    },
+    {
+      "id": "discover-our-collection",
+      "label": "Discover our collection",
+      "start": 1353.0,
+      "height": 1257.0,
+      "width": 1920.0,
+      "asset": "assets/main-section-02.webp",
+      "pixels": [
+        2560,
+        1676
+      ]
+    },
+    {
+      "id": "precious-detail",
+      "label": "Precious detail",
+      "start": 2610.0,
+      "height": 1002.0,
+      "width": 1920.0,
+      "asset": "assets/main-section-03.webp",
+      "pixels": [
+        2560,
+        1336
+      ]
+    },
+    {
+      "id": "new-arrivals",
+      "label": "New arrivals",
+      "start": 3612.0,
+      "height": 1569.0,
+      "width": 1920.0,
+      "asset": "assets/main-section-04.webp",
+      "pixels": [
+        2560,
+        2092
+      ]
+    },
+    {
+      "id": "jewellery-stories",
+      "label": "Jewellery stories",
+      "start": 5181.0,
+      "height": 1029.0,
+      "width": 1920.0,
+      "asset": "assets/main-section-05.webp",
+      "pixels": [
+        2560,
+        1372
+      ]
+    },
+    {
+      "id": "what-people-say",
+      "label": "What people say",
+      "start": 6210.0,
+      "height": 1422.0,
+      "width": 1920.0,
+      "asset": "assets/main-section-06.webp",
+      "pixels": [
+        2560,
+        1896
+      ]
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "start": 7632.0,
+      "height": 636.0,
+      "width": 1920.0,
+      "asset": "assets/main-section-07.webp",
+      "pixels": [
+        2560,
+        848
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "kind": "detail",
+      "section": "jewellery-stories",
+      "label": "MIRELUNE — product detail 1",
+      "box": [
+        0,
+        5256.0,
+        1144.9188232421875,
+        886.0
+      ],
+      "asset": "assets/main-section-05.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "jewellery-stories",
+      "label": "MIRELUNE — product detail 2",
+      "box": [
+        776.3242797851562,
+        5256.0,
+        1143.6757202148438,
+        886.0
+      ],
+      "asset": "assets/main-section-05.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "what-people-say",
+      "label": "MIRELUNE — product detail 3",
+      "box": [
+        345.95672607421875,
+        6449.0,
+        1228.8941040039062,
+        685.8525390625
+      ],
+      "asset": "assets/main-section-06.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "new-arrivals",
+      "label": "MIRELUNE — product detail 4",
+      "box": [
+        966.5311279296875,
+        3670.562255859375,
+        953.4688720703125,
+        731.068603515625
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "discover-our-collection",
+      "label": "MIRELUNE — product detail 5",
+      "box": [
+        0,
+        1681.0,
+        792.7103881835938,
+        580.035888671875
+      ],
+      "asset": "assets/main-section-02.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "new-arrivals",
+      "label": "MIRELUNE — product detail 6",
+      "box": [
+        167.0,
+        3677.04638671875,
+        510.0,
+        764.90673828125
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "new-arrivals",
+      "label": "MIRELUNE — product detail 7",
+      "box": [
+        629.4940185546875,
+        4514.0,
+        712.4998779296875,
+        475.0
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "discover-our-collection",
+      "label": "MIRELUNE — product detail 8",
+      "box": [
+        938.3990478515625,
+        1681.0001220703125,
+        580.0360107421875,
+        580.0360107421875
+      ],
+      "asset": "assets/main-section-02.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "new-arrivals",
+      "label": "MIRELUNE — product detail 9",
+      "box": [
+        625.4218139648438,
+        3863.0,
+        758.5184936523438,
+        425.0
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "new-arrivals",
+      "label": "MIRELUNE — product detail 10",
+      "box": [
+        167.0,
+        4506.056640625,
+        510.0,
+        510.0
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "new-arrivals",
+      "label": "MIRELUNE — product detail 11",
+      "box": [
+        1247.0,
+        4455.5,
+        510.0,
+        510.0
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "what-people-say",
+      "label": "MIRELUNE — product detail 12",
+      "box": [
+        204.92111206054688,
+        6366.0,
+        408.7721252441406,
+        613.08349609375
+      ],
+      "asset": "assets/main-section-06.webp"
+    }
+  ],
+  "navigation": [
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "Explore Now",
+      "box": [
+        184.43971252441406,
+        956.6255005836487,
+        142.12303161621094,
+        46.36699924468994
+      ],
+      "destination": "discover-our-collection"
+    },
+    {
+      "kind": "scroll",
+      "section": "discover-our-collection",
+      "label": "Collection",
+      "box": [
+        145.0,
+        1509.8,
+        315.2967529296875,
+        99.2
+      ],
+      "destination": "discover-our-collection"
+    },
+    {
+      "kind": "scroll",
+      "section": "discover-our-collection",
+      "label": "Read More",
+      "box": [
+        1451.1004638671875,
+        2175.0,
+        122.0455322265625,
+        42.0
+      ],
+      "destination": "discover-our-collection"
+    },
+    {
+      "kind": "scroll",
+      "section": "discover-our-collection",
+      "label": "Read More",
+      "box": [
+        580.3668212890625,
+        2211.0,
+        122.04559326171875,
+        42.0
+      ],
+      "destination": "discover-our-collection"
+    },
+    {
+      "kind": "scroll",
+      "section": "discover-our-collection",
+      "label": "Read More",
+      "box": [
+        145.0,
+        2496.0,
+        122.04559326171875,
+        42.0
+      ],
+      "destination": "discover-our-collection"
+    },
+    {
+      "kind": "scroll",
+      "section": "discover-our-collection",
+      "label": "Read More",
+      "box": [
+        1015.733642578125,
+        2496.0,
+        122.045654296875,
+        42.0
+      ],
+      "destination": "discover-our-collection"
+    },
+    {
+      "kind": "scroll",
+      "section": "precious-detail",
+      "label": "Learn More",
+      "box": [
+        183.02911376953125,
+        3308.6255005836488,
+        128.94851684570312,
+        46.36699924468994
+      ],
+      "destination": "discover-our-collection"
+    },
+    {
+      "kind": "scroll",
+      "section": "contact",
+      "label": "Contact Us",
+      "box": [
+        1151.94189453125,
+        7763.6,
+        148.50146484375,
+        46.400000000000006
+      ],
+      "destination": "contact"
+    },
+    {
+      "kind": "scroll",
+      "section": "contact",
+      "label": "About Us",
+      "box": [
+        890.0,
+        7821.0,
+        107.66156005859375,
+        42.0
+      ],
+      "destination": "discover-our-collection"
+    },
+    {
+      "kind": "scroll",
+      "section": "contact",
+      "label": "Our Products",
+      "box": [
+        890.0,
+        7959.0,
+        144.3155517578125,
+        42.0
+      ],
+      "destination": "contact"
+    }
+  ],
+  "rendering": "source-preserving HTML showcase with raster artwork sections",
+  "textLayer": "original PDF copy"
+}

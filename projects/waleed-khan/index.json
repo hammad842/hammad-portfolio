@@ -1,0 +1,171 @@
+{
+  "slug": "waleed-khan",
+  "name": "Waleed Khan",
+  "file": "Waleed Khan.pdf",
+  "category": "Real Estate",
+  "accent": "#b9a335",
+  "theme": "dark",
+  "motion": "luxury",
+  "crop": [
+    0.0,
+    1982.0,
+    1400.0,
+    5436.667
+  ],
+  "cuts": [
+    0,
+    1060,
+    1950,
+    2400,
+    3100,
+    3600,
+    4350,
+    4900,
+    5436.667
+  ],
+  "labels": [
+    "Find your perfect place",
+    "Meet Waleed Khan",
+    "Proven results",
+    "Luxury homes",
+    "Newsletter",
+    "Client stories",
+    "Your dream home",
+    "Contact"
+  ],
+  "sourceSize": [
+    1400.0,
+    7419.0
+  ],
+  "size": [
+    1400.0,
+    5436.667
+  ],
+  "sections": [
+    {
+      "id": "home",
+      "label": "Find your perfect place",
+      "start": 0.0,
+      "height": 995.046,
+      "width": 1400.0,
+      "asset": "assets/main-section-01.webp",
+      "pixels": [
+        1920,
+        1365
+      ]
+    },
+    {
+      "id": "meet-waleed-khan",
+      "label": "Meet Waleed Khan",
+      "start": 995.046,
+      "height": 901.008,
+      "width": 1400.0,
+      "asset": "assets/main-section-02.webp",
+      "pixels": [
+        1920,
+        1237
+      ]
+    },
+    {
+      "id": "proven-results",
+      "label": "Proven results",
+      "start": 1896.054,
+      "height": 503.9459999999999,
+      "width": 1400.0,
+      "asset": "assets/main-section-03.webp",
+      "pixels": [
+        1920,
+        692
+      ]
+    },
+    {
+      "id": "luxury-homes",
+      "label": "Luxury homes",
+      "start": 2400,
+      "height": 700,
+      "width": 1400.0,
+      "asset": "assets/main-section-04.webp",
+      "pixels": [
+        1920,
+        961
+      ]
+    },
+    {
+      "id": "newsletter",
+      "label": "Newsletter",
+      "start": 3100,
+      "height": 436.23900000000003,
+      "width": 1400.0,
+      "asset": "assets/main-section-05.webp",
+      "pixels": [
+        1920,
+        599
+      ]
+    },
+    {
+      "id": "client-stories",
+      "label": "Client stories",
+      "start": 3536.239,
+      "height": 907.569,
+      "width": 1400.0,
+      "asset": "assets/main-section-06.webp",
+      "pixels": [
+        1920,
+        1246
+      ]
+    },
+    {
+      "id": "your-dream-home",
+      "label": "Your dream home",
+      "start": 4443.808,
+      "height": 474.5600000000004,
+      "width": 1400.0,
+      "asset": "assets/main-section-07.webp",
+      "pixels": [
+        1920,
+        652
+      ]
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "start": 4918.368,
+      "height": 518.299,
+      "width": 1400.0,
+      "asset": "assets/main-section-08.webp",
+      "pixels": [
+        1920,
+        712
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "kind": "detail",
+      "section": "luxury-homes",
+      "label": "Waleed Khan — design detail 1",
+      "box": [
+        60,
+        2490,
+        1280,
+        510
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "meet-waleed-khan",
+      "label": "Waleed Khan — design detail 2",
+      "box": [
+        70,
+        1120,
+        480,
+        580
+      ],
+      "asset": "assets/main-section-02.webp"
+    }
+  ],
+  "navigation": [],
+  "rendering": "source-preserving HTML showcase with raster artwork sections",
+  "textLayer": "flattened artwork; header OCR for navigation"
+}

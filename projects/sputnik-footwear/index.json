@@ -1,0 +1,362 @@
+{
+  "slug": "sputnik-footwear",
+  "name": "Sputnik Footwear",
+  "file": "Sputnik Footwear Website V3 White theme.pdf",
+  "category": "Fashion & E-commerce",
+  "accent": "#967c64",
+  "theme": "light",
+  "motion": "editorial",
+  "cuts": [
+    0,
+    1250,
+    3400,
+    5360,
+    7300,
+    9200,
+    10180,
+    11812
+  ],
+  "labels": [
+    "Sputnik Footwear",
+    "New arrivals",
+    "Men's collection",
+    "Women's collection",
+    "Wedding collection",
+    "Stories and styles",
+    "Contact"
+  ],
+  "sourceSize": [
+    1920.0,
+    11812.0
+  ],
+  "crop": [
+    0.0,
+    0.0,
+    1920.0,
+    11812.0
+  ],
+  "size": [
+    1920.0,
+    11812.0
+  ],
+  "sections": [
+    {
+      "id": "home",
+      "label": "Sputnik Footwear",
+      "start": 0.0,
+      "height": 1253.788,
+      "width": 1920.0,
+      "asset": "assets/main-section-01.webp",
+      "pixels": [
+        2560,
+        1672
+      ]
+    },
+    {
+      "id": "new-arrivals",
+      "label": "New arrivals",
+      "start": 1253.788,
+      "height": 2146.212,
+      "width": 1920.0,
+      "asset": "assets/main-section-02.webp",
+      "pixels": [
+        2560,
+        2863
+      ]
+    },
+    {
+      "id": "men-s-collection",
+      "label": "Men's collection",
+      "start": 3400,
+      "height": 1960,
+      "width": 1920.0,
+      "asset": "assets/main-section-03.webp",
+      "pixels": [
+        2560,
+        2614
+      ]
+    },
+    {
+      "id": "women-s-collection",
+      "label": "Women's collection",
+      "start": 5360,
+      "height": 1940,
+      "width": 1920.0,
+      "asset": "assets/main-section-04.webp",
+      "pixels": [
+        2560,
+        2588
+      ]
+    },
+    {
+      "id": "wedding-collection",
+      "label": "Wedding collection",
+      "start": 7300,
+      "height": 1692.4770000000008,
+      "width": 1920.0,
+      "asset": "assets/main-section-05.webp",
+      "pixels": [
+        2560,
+        2257
+      ]
+    },
+    {
+      "id": "stories-and-styles",
+      "label": "Stories and styles",
+      "start": 8992.477,
+      "height": 1118.8109999999997,
+      "width": 1920.0,
+      "asset": "assets/main-section-06.webp",
+      "pixels": [
+        2560,
+        1493
+      ]
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "start": 10111.288,
+      "height": 1700.7119999999995,
+      "width": 1920.0,
+      "asset": "assets/main-section-07.webp",
+      "pixels": [
+        2560,
+        2269
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "kind": "detail",
+      "section": "stories-and-styles",
+      "label": "Sputnik Footwear — product detail 1",
+      "box": [
+        840.7632446289062,
+        9023.1826171875,
+        559.4882202148438,
+        699.3603515625
+      ],
+      "asset": "assets/main-section-06.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "new-arrivals",
+      "label": "Sputnik Footwear — product detail 2",
+      "box": [
+        534.0,
+        1456.60546875,
+        413.4306640625,
+        621.15625
+      ],
+      "asset": "assets/main-section-02.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "men-s-collection",
+      "label": "Sputnik Footwear — product detail 3",
+      "box": [
+        534.0,
+        4157.60546875,
+        413.4306640625,
+        621.15625
+      ],
+      "asset": "assets/main-section-03.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "men-s-collection",
+      "label": "Sputnik Footwear — product detail 4",
+      "box": [
+        972.0,
+        4157.60546875,
+        413.4306640625,
+        621.15625
+      ],
+      "asset": "assets/main-section-03.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "men-s-collection",
+      "label": "Sputnik Footwear — product detail 5",
+      "box": [
+        1410.0,
+        4157.60546875,
+        413.4306640625,
+        621.15625
+      ],
+      "asset": "assets/main-section-03.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "new-arrivals",
+      "label": "Sputnik Footwear — product detail 6",
+      "box": [
+        972.0,
+        2189.3193359375,
+        413.4306640625,
+        621.15625
+      ],
+      "asset": "assets/main-section-02.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "new-arrivals",
+      "label": "Sputnik Footwear — product detail 7",
+      "box": [
+        534.0,
+        2186.60546875,
+        413.4306640625,
+        621.15625
+      ],
+      "asset": "assets/main-section-02.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "new-arrivals",
+      "label": "Sputnik Footwear — product detail 8",
+      "box": [
+        96.0,
+        2189.3193359375,
+        413.4306640625,
+        621.15625
+      ],
+      "asset": "assets/main-section-02.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "new-arrivals",
+      "label": "Sputnik Footwear — product detail 9",
+      "box": [
+        1410.0,
+        2186.60546875,
+        413.4306640625,
+        621.15625
+      ],
+      "asset": "assets/main-section-02.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "women-s-collection",
+      "label": "Sputnik Footwear — product detail 10",
+      "box": [
+        972.0,
+        6106.60546875,
+        413.4306640625,
+        621.15625
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "women-s-collection",
+      "label": "Sputnik Footwear — product detail 11",
+      "box": [
+        1410.0,
+        6106.60546875,
+        413.4306640625,
+        621.15625
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "women-s-collection",
+      "label": "Sputnik Footwear — product detail 12",
+      "box": [
+        533.0,
+        6106.8916015625,
+        413.4306640625,
+        621.15625
+      ],
+      "asset": "assets/main-section-04.webp"
+    }
+  ],
+  "navigation": [
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "Shop now",
+      "box": [
+        900.00390625,
+        1036.6651168823241,
+        119.45587158203125,
+        35.96278991699219
+      ],
+      "destination": "new-arrivals"
+    },
+    {
+      "kind": "scroll",
+      "section": "new-arrivals",
+      "label": "View All",
+      "box": [
+        907.5,
+        2941.25,
+        105.24957275390625,
+        36.5
+      ],
+      "destination": "new-arrivals"
+    },
+    {
+      "kind": "scroll",
+      "section": "men-s-collection",
+      "label": "View All",
+      "box": [
+        907.5,
+        4933.25,
+        105.24957275390625,
+        36.5
+      ],
+      "destination": "new-arrivals"
+    },
+    {
+      "kind": "scroll",
+      "section": "women-s-collection",
+      "label": "View All",
+      "box": [
+        907.5,
+        6904.25,
+        105.24957275390625,
+        36.5
+      ],
+      "destination": "new-arrivals"
+    },
+    {
+      "kind": "scroll",
+      "section": "wedding-collection",
+      "label": "Collection",
+      "box": [
+        700.1978149414062,
+        7540.160831832885,
+        519.6314086914062,
+        106.49774703979493
+      ],
+      "destination": "men-s-collection"
+    },
+    {
+      "kind": "scroll",
+      "section": "wedding-collection",
+      "label": "View All",
+      "box": [
+        907.5,
+        8887.25,
+        105.24957275390625,
+        36.5
+      ],
+      "destination": "new-arrivals"
+    },
+    {
+      "kind": "scroll",
+      "section": "contact",
+      "label": "Contact Us",
+      "box": [
+        309.0,
+        11344.7,
+        114.26602172851562,
+        39.8
+      ],
+      "destination": "contact"
+    }
+  ],
+  "rendering": "source-preserving HTML showcase with raster artwork sections",
+  "textLayer": "original PDF copy"
+}

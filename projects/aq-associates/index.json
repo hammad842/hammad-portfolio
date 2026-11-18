@@ -1,0 +1,194 @@
+{
+  "slug": "aq-associates",
+  "name": "AQ Associates",
+  "file": "AQ Associates Home Page.pdf",
+  "category": "Finance & Consulting",
+  "accent": "#ffbf00",
+  "theme": "light",
+  "motion": "corporate",
+  "cuts": [
+    0,
+    987,
+    2090,
+    3040,
+    3450,
+    4180,
+    5330,
+    5808
+  ],
+  "labels": [
+    "Your trusted partner",
+    "Our services",
+    "About us",
+    "Our results",
+    "What customers say",
+    "Contact us",
+    "Footer"
+  ],
+  "sourceSize": [
+    1903.0,
+    5808.0
+  ],
+  "crop": [
+    0.0,
+    0.0,
+    1903.0,
+    5808.0
+  ],
+  "size": [
+    1903.0,
+    5808.0
+  ],
+  "sections": [
+    {
+      "id": "home",
+      "label": "Your trusted partner",
+      "start": 0.0,
+      "height": 1058.162,
+      "width": 1903.0,
+      "asset": "assets/main-section-01.webp",
+      "pixels": [
+        2560,
+        1424
+      ]
+    },
+    {
+      "id": "our-services",
+      "label": "Our services",
+      "start": 1058.162,
+      "height": 1064.106,
+      "width": 1903.0,
+      "asset": "assets/main-section-02.webp",
+      "pixels": [
+        2560,
+        1432
+      ]
+    },
+    {
+      "id": "about-us",
+      "label": "About us",
+      "start": 2122.268,
+      "height": 995.7420000000002,
+      "width": 1903.0,
+      "asset": "assets/main-section-03.webp",
+      "pixels": [
+        2560,
+        1341
+      ]
+    },
+    {
+      "id": "our-results",
+      "label": "Our results",
+      "start": 3118.01,
+      "height": 306.154,
+      "width": 1903.0,
+      "asset": "assets/main-section-04.webp",
+      "pixels": [
+        2560,
+        413
+      ]
+    },
+    {
+      "id": "what-customers-say",
+      "label": "What customers say",
+      "start": 3424.164,
+      "height": 760.9249999999997,
+      "width": 1903.0,
+      "asset": "assets/main-section-05.webp",
+      "pixels": [
+        2560,
+        1024
+      ]
+    },
+    {
+      "id": "contact-us",
+      "label": "Contact us",
+      "start": 4185.089,
+      "height": 1073.0240000000003,
+      "width": 1903.0,
+      "asset": "assets/main-section-06.webp",
+      "pixels": [
+        2560,
+        1445
+      ]
+    },
+    {
+      "id": "footer",
+      "label": "Footer",
+      "start": 5258.113,
+      "height": 549.8869999999997,
+      "width": 1903.0,
+      "asset": "assets/main-section-07.webp",
+      "pixels": [
+        2560,
+        741
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "kind": "detail",
+      "section": "about-us",
+      "label": "AQ Associates — design detail 1",
+      "box": [
+        634.0,
+        2130.0,
+        912.0,
+        912.0
+      ],
+      "asset": "assets/main-section-03.webp"
+    }
+  ],
+  "navigation": [
+    {
+      "kind": "contact",
+      "section": "home",
+      "label": "Call Me",
+      "box": [
+        1498.751220703125,
+        51.0,
+        100.7923583984375,
+        42.0
+      ],
+      "destination": null
+    },
+    {
+      "kind": "scroll",
+      "section": "about-us",
+      "label": "About Us",
+      "box": [
+        265.0,
+        2181.35,
+        368.87152099609375,
+        95.9
+      ],
+      "destination": "about-us"
+    },
+    {
+      "kind": "scroll",
+      "section": "contact-us",
+      "label": "Contact Us",
+      "box": [
+        265.0,
+        4251.35,
+        427.3204345703125,
+        95.9
+      ],
+      "destination": "contact-us"
+    },
+    {
+      "kind": "contact",
+      "section": "contact-us",
+      "label": "Submit",
+      "box": [
+        298.029296875,
+        5070.791880226136,
+        160.510009765625,
+        60.386978530883795
+      ],
+      "destination": null
+    }
+  ],
+  "rendering": "source-preserving HTML showcase with raster artwork sections",
+  "textLayer": "original PDF copy"
+}

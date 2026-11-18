@@ -1,0 +1,180 @@
+{
+  "slug": "desigxx",
+  "name": "Desigxx",
+  "file": "Desigxx.pdf",
+  "category": "Creative Agency",
+  "accent": "#ff9b00",
+  "theme": "dark",
+  "motion": "expressive",
+  "crop": [
+    72.551,
+    1994.0,
+    1254.898,
+    5846.31
+  ],
+  "cuts": [
+    0,
+    1000,
+    2500,
+    3480,
+    4420,
+    5050,
+    5846.31
+  ],
+  "labels": [
+    "Sharing your vision",
+    "What we deliver",
+    "Selected works",
+    "Client feedback",
+    "Start a project",
+    "Keep in touch"
+  ],
+  "sourceSize": [
+    1400.0,
+    7916.0
+  ],
+  "size": [
+    1254.898,
+    5846.31
+  ],
+  "sections": [
+    {
+      "id": "home",
+      "label": "Sharing your vision",
+      "start": 0.0,
+      "height": 1028.59,
+      "width": 1254.898,
+      "asset": "assets/main-section-01.webp",
+      "pixels": [
+        1921,
+        1575
+      ]
+    },
+    {
+      "id": "what-we-deliver",
+      "label": "What we deliver",
+      "start": 1028.59,
+      "height": 1506.64,
+      "width": 1254.898,
+      "asset": "assets/main-section-02.webp",
+      "pixels": [
+        1921,
+        2306
+      ]
+    },
+    {
+      "id": "selected-works",
+      "label": "Selected works",
+      "start": 2535.23,
+      "height": 944.77,
+      "width": 1254.898,
+      "asset": "assets/main-section-03.webp",
+      "pixels": [
+        1921,
+        1447
+      ]
+    },
+    {
+      "id": "client-feedback",
+      "label": "Client feedback",
+      "start": 3480,
+      "height": 938.0389999999998,
+      "width": 1254.898,
+      "asset": "assets/main-section-04.webp",
+      "pixels": [
+        1921,
+        1436
+      ]
+    },
+    {
+      "id": "start-a-project",
+      "label": "Start a project",
+      "start": 4418.039,
+      "height": 832.6680000000006,
+      "width": 1254.898,
+      "asset": "assets/main-section-05.webp",
+      "pixels": [
+        1921,
+        1275
+      ]
+    },
+    {
+      "id": "keep-in-touch",
+      "label": "Keep in touch",
+      "start": 5250.707,
+      "height": 595.6030000000001,
+      "width": 1254.898,
+      "asset": "assets/main-section-06.webp",
+      "pixels": [
+        1921,
+        912
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "kind": "detail",
+      "section": "selected-works",
+      "label": "Desigxx — design detail 1",
+      "box": [
+        80,
+        2650,
+        490,
+        500
+      ],
+      "asset": "assets/main-section-03.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "selected-works",
+      "label": "Desigxx — design detail 2",
+      "box": [
+        650,
+        2650,
+        490,
+        500
+      ],
+      "asset": "assets/main-section-03.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "selected-works",
+      "label": "Desigxx — design detail 3",
+      "box": [
+        850,
+        3170,
+        300,
+        310.0
+      ],
+      "asset": "assets/main-section-03.webp"
+    }
+  ],
+  "navigation": [
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "Services",
+      "box": [
+        868.4285999999998,
+        54.35504772004242,
+        93.11144869565217,
+        38.542979851537645
+      ],
+      "destination": "keep-in-touch"
+    },
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "Contact Us",
+      "box": [
+        1081.215652173913,
+        55.4458112407211,
+        117.11819304347824,
+        33.08916224814422
+      ],
+      "destination": "keep-in-touch"
+    }
+  ],
+  "rendering": "source-preserving HTML showcase with raster artwork sections",
+  "textLayer": "flattened artwork; header OCR for navigation"
+}

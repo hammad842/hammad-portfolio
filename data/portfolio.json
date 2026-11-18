@@ -1,0 +1,1145 @@
+{
+  "designer": {
+    "name": "Hammad Ahmed",
+    "shortName": "Hammad",
+    "role": "UI/UX & Visual Designer",
+    "email": "hammadaiocreators@gmail.com",
+    "phone": "+92 315 8175406",
+    "whatsapp": "https://wa.me/923158175406",
+    "behance": "https://www.behance.net/hammaddesigner/projects",
+    "location": "Karachi, Pakistan",
+    "experience": "6+ years"
+  },
+  "categories": [
+    {
+      "id": "websites",
+      "name": "Websites",
+      "intro": "Digital experiences with a clear purpose and a distinctive point of view.",
+      "description": "A selection of website, e-commerce and digital product designs. Browse the layouts at your own pace, with an interactive animated preview for Carhartt.",
+      "offerings": [
+        "Website design",
+        "E-commerce interfaces",
+        "SaaS & dashboards",
+        "Responsive UI systems"
+      ]
+    },
+    {
+      "id": "social-media",
+      "name": "Social media",
+      "intro": "Small formats. A strong impression.",
+      "description": "I design campaign visuals, carousels and branded content that help businesses show up consistently. For a selection relevant to your brand, get in touch.",
+      "offerings": [
+        "Social campaigns",
+        "Carousels & content series",
+        "Promotional creatives",
+        "Brand consistency"
+      ]
+    },
+    {
+      "id": "branding",
+      "name": "Branding",
+      "intro": "A brand people recognise before they read the name.",
+      "description": "From the first mark to its everyday applications, I create visual identities built to feel coherent across screens, packaging and print. Ask me for a tailored selection of identity work.",
+      "offerings": [
+        "Logo & visual identity",
+        "Colour & typography",
+        "Brand applications",
+        "Stationery systems"
+      ]
+    },
+    {
+      "id": "posters",
+      "name": "Posters & print",
+      "intro": "Ideas that hold their own off-screen.",
+      "description": "Posters, flyers and print pieces that bring together a clear message, confident typography and considered composition. Get in touch to see a selection for your project.",
+      "offerings": [
+        "Posters & flyers",
+        "Promotional print",
+        "Editorial layouts",
+        "Print-ready artwork"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "slug": "carhartt",
+      "name": "Carhartt",
+      "headline": "Workwear, with a point of view.",
+      "description": "An editorial e-commerce direction for Carhartt, bringing oversized typography, confident imagery and an expressive product story into one browsing experience.",
+      "category": "websites",
+      "tags": [
+        "E-commerce",
+        "Art direction"
+      ],
+      "background": "#b7b4aa",
+      "cover": "assets/thumbnails/carhartt-banner.webp",
+      "screen": "assets/screens/carhartt.webp",
+      "preview": "projects/carhartt/index.html",
+      "variants": [
+        {
+          "label": "White version",
+          "path": "projects/carhartt/white.html"
+        }
+      ],
+      "rendering": "HTML image/text/vector layers with reconstructed glyph fonts",
+      "featured": true,
+      "generatedThumbnail": true
+    },
+    {
+      "slug": "sputnik-footwear",
+      "name": "Sputnik Footwear",
+      "headline": "A new rhythm for footwear.",
+      "description": "A fashion-led storefront that balances collection storytelling with a clear route to the product. Warm photography and generous spacing keep the footwear in focus.",
+      "category": "websites",
+      "tags": [
+        "E-commerce",
+        "Fashion"
+      ],
+      "background": "#d7d0c4",
+      "cover": "assets/thumbnails/sputnik-footwear-banner.webp",
+      "screen": "assets/screens/sputnik-footwear.webp",
+      "preview": "projects/sputnik-footwear/index.html",
+      "variants": [],
+      "rendering": "source-preserving animated HTML showcase",
+      "featured": true,
+      "generatedThumbnail": true,
+      "designImages": [
+        "projects/sputnik-footwear/assets/main-section-01.webp",
+        "projects/sputnik-footwear/assets/main-section-02.webp",
+        "projects/sputnik-footwear/assets/main-section-03.webp",
+        "projects/sputnik-footwear/assets/main-section-04.webp",
+        "projects/sputnik-footwear/assets/main-section-05.webp",
+        "projects/sputnik-footwear/assets/main-section-06.webp",
+        "projects/sputnik-footwear/assets/main-section-07.webp"
+      ]
+    },
+    {
+      "slug": "furene",
+      "name": "Furene",
+      "headline": "Money, made more approachable.",
+      "description": "A fintech website direction with a confident green palette, structured product storytelling and a clearer introduction to everyday money tools.",
+      "category": "websites",
+      "tags": [
+        "Fintech",
+        "Website"
+      ],
+      "background": "#005e3b",
+      "cover": "assets/thumbnails/furene-banner.webp",
+      "screen": "assets/screens/furene.webp",
+      "preview": "projects/furene/index.html",
+      "variants": [],
+      "rendering": "source-preserving animated HTML showcase",
+      "featured": true,
+      "generatedThumbnail": true,
+      "designImages": [
+        "projects/furene/assets/main-section-01.webp",
+        "projects/furene/assets/main-section-02.webp",
+        "projects/furene/assets/main-section-03.webp",
+        "projects/furene/assets/main-section-04.webp",
+        "projects/furene/assets/main-section-05.webp",
+        "projects/furene/assets/main-section-06.webp"
+      ]
+    },
+    {
+      "slug": "asan-real-estate",
+      "name": "Asan Real Estate",
+      "headline": "Complex workflows. Clear interfaces.",
+      "description": "A product-led website for a real estate CRM, turning a broad set of tools into a clear story around leads, workflows and everyday property operations.",
+      "category": "websites",
+      "tags": [
+        "SaaS",
+        "UI/UX"
+      ],
+      "background": "#e8e1ec",
+      "cover": "assets/thumbnails/asan-real-estate-banner.webp",
+      "screen": "assets/screens/asan-real-estate.webp",
+      "preview": "projects/asan-real-estate/index.html",
+      "variants": [],
+      "rendering": "source-preserving animated HTML showcase",
+      "featured": true,
+      "generatedThumbnail": true,
+      "designImages": [
+        "projects/asan-real-estate/assets/main-section-01.webp",
+        "projects/asan-real-estate/assets/main-section-02.webp",
+        "projects/asan-real-estate/assets/main-section-03.webp",
+        "projects/asan-real-estate/assets/main-section-04.webp",
+        "projects/asan-real-estate/assets/main-section-05.webp",
+        "projects/asan-real-estate/assets/main-section-06.webp",
+        "projects/asan-real-estate/assets/main-section-07.webp",
+        "projects/asan-real-estate/assets/main-section-08.webp",
+        "projects/asan-real-estate/assets/main-section-09.webp",
+        "projects/asan-real-estate/assets/main-section-10.webp",
+        "projects/asan-real-estate/assets/main-section-11.webp"
+      ]
+    },
+    {
+      "slug": "mirelune",
+      "name": "MIRELUNE",
+      "headline": "A quieter kind of luxury.",
+      "description": "A jewellery storefront shaped around fine detail, soft photography and an unhurried visual rhythm. The interface gives the collections room to speak.",
+      "category": "websites",
+      "tags": [
+        "E-commerce",
+        "Luxury"
+      ],
+      "background": "#d7bca3",
+      "cover": "assets/thumbnails/mirelune-banner.webp",
+      "screen": "assets/screens/mirelune.webp",
+      "preview": "projects/mirelune/index.html",
+      "variants": [],
+      "rendering": "source-preserving animated HTML showcase",
+      "featured": true,
+      "generatedThumbnail": true,
+      "designImages": [
+        "projects/mirelune/assets/main-section-01.webp",
+        "projects/mirelune/assets/main-section-02.webp",
+        "projects/mirelune/assets/main-section-03.webp",
+        "projects/mirelune/assets/main-section-04.webp",
+        "projects/mirelune/assets/main-section-05.webp",
+        "projects/mirelune/assets/main-section-06.webp",
+        "projects/mirelune/assets/main-section-07.webp"
+      ]
+    },
+    {
+      "slug": "desigxx",
+      "name": "Desigxx",
+      "headline": "A creative studio, turned up.",
+      "description": "An expressive agency website with bold type, a high-contrast palette and a portfolio-first layout that puts the studio\u2019s character on display.",
+      "category": "websites",
+      "tags": [
+        "Agency",
+        "Visual direction"
+      ],
+      "background": "#ec9515",
+      "cover": "assets/covers/desigxx.webp",
+      "screen": "assets/screens/desigxx.webp",
+      "preview": "projects/desigxx/index.html",
+      "variants": [],
+      "rendering": "source-preserving animated HTML showcase",
+      "featured": true,
+      "designImages": [
+        "projects/desigxx/assets/main-section-01.webp",
+        "projects/desigxx/assets/main-section-02.webp",
+        "projects/desigxx/assets/main-section-03.webp",
+        "projects/desigxx/assets/main-section-04.webp",
+        "projects/desigxx/assets/main-section-05.webp",
+        "projects/desigxx/assets/main-section-06.webp"
+      ]
+    },
+    {
+      "slug": "evolvai",
+      "name": "EvolvAI",
+      "headline": "A human side to AI.",
+      "description": "A corporate website direction for an AI business, connecting technical services to real-world needs through clear hierarchy and a more approachable visual story.",
+      "category": "websites",
+      "tags": [
+        "AI",
+        "Website"
+      ],
+      "background": "#adb5ad",
+      "cover": "assets/thumbnails/evolvai-banner.webp",
+      "screen": "assets/screens/evolvai.webp",
+      "preview": "projects/evolvai/index.html",
+      "variants": [
+        {
+          "label": "Alternate version",
+          "path": "projects/evolvai/alternate.html",
+          "designImages": [
+            "projects/evolvai/assets/alternate-section-01.webp",
+            "projects/evolvai/assets/alternate-section-02.webp",
+            "projects/evolvai/assets/alternate-section-03.webp",
+            "projects/evolvai/assets/alternate-section-04.webp",
+            "projects/evolvai/assets/alternate-section-05.webp",
+            "projects/evolvai/assets/alternate-section-06.webp",
+            "projects/evolvai/assets/alternate-section-07.webp"
+          ]
+        }
+      ],
+      "rendering": "source-preserving animated HTML showcase",
+      "featured": false,
+      "generatedThumbnail": true,
+      "designImages": [
+        "projects/evolvai/assets/main-section-01.webp",
+        "projects/evolvai/assets/main-section-02.webp",
+        "projects/evolvai/assets/main-section-03.webp",
+        "projects/evolvai/assets/main-section-04.webp",
+        "projects/evolvai/assets/main-section-05.webp",
+        "projects/evolvai/assets/main-section-06.webp",
+        "projects/evolvai/assets/main-section-07.webp"
+      ]
+    },
+    {
+      "slug": "esternova",
+      "name": "Esternova",
+      "headline": "Enter a different world.",
+      "description": "A gaming and NFT website exploration that combines character-led visuals, collection discovery and an energetic introduction to the product world.",
+      "category": "websites",
+      "tags": [
+        "Gaming",
+        "Web3"
+      ],
+      "background": "#c1a5d4",
+      "cover": "assets/thumbnails/esternova-banner.webp",
+      "screen": "assets/screens/esternova.webp",
+      "preview": "projects/esternova/index.html",
+      "variants": [],
+      "rendering": "source-preserving animated HTML showcase",
+      "featured": false,
+      "generatedThumbnail": true,
+      "designImages": [
+        "projects/esternova/assets/main-section-01.webp",
+        "projects/esternova/assets/main-section-02.webp",
+        "projects/esternova/assets/main-section-03.webp",
+        "projects/esternova/assets/main-section-04.webp",
+        "projects/esternova/assets/main-section-05.webp",
+        "projects/esternova/assets/main-section-06.webp",
+        "projects/esternova/assets/main-section-07.webp"
+      ]
+    },
+    {
+      "slug": "etivas",
+      "name": "Etivas",
+      "headline": "An event worth exploring.",
+      "description": "A crypto-event website bringing sessions, speakers, highlights and registration prompts into a structured, visually distinctive experience.",
+      "category": "websites",
+      "tags": [
+        "Events",
+        "Web3"
+      ],
+      "background": "#192235",
+      "cover": "assets/thumbnails/etivas-banner.webp",
+      "screen": "assets/screens/etivas.webp",
+      "preview": "projects/etivas/index.html",
+      "variants": [],
+      "rendering": "source-preserving animated HTML showcase",
+      "featured": false,
+      "generatedThumbnail": true,
+      "designImages": [
+        "projects/etivas/assets/main-section-01.webp",
+        "projects/etivas/assets/main-section-02.webp",
+        "projects/etivas/assets/main-section-03.webp",
+        "projects/etivas/assets/main-section-04.webp",
+        "projects/etivas/assets/main-section-05.webp",
+        "projects/etivas/assets/main-section-06.webp",
+        "projects/etivas/assets/main-section-07.webp",
+        "projects/etivas/assets/main-section-08.webp",
+        "projects/etivas/assets/main-section-09.webp"
+      ]
+    },
+    {
+      "slug": "financial",
+      "name": "Financial",
+      "headline": "Finance, with a clearer path.",
+      "description": "An Islamic finance website direction built around understandable services, a strong information hierarchy and approachable routes to an enquiry.",
+      "category": "websites",
+      "tags": [
+        "Banking",
+        "Website"
+      ],
+      "background": "#d5de13",
+      "cover": "assets/thumbnails/financial-banner.webp",
+      "screen": "assets/screens/financial.webp",
+      "preview": "projects/financial/index.html",
+      "variants": [],
+      "rendering": "source-preserving animated HTML showcase",
+      "featured": false,
+      "generatedThumbnail": true,
+      "designImages": [
+        "projects/financial/assets/main-section-01.webp",
+        "projects/financial/assets/main-section-02.webp",
+        "projects/financial/assets/main-section-03.webp",
+        "projects/financial/assets/main-section-04.webp",
+        "projects/financial/assets/main-section-05.webp",
+        "projects/financial/assets/main-section-06.webp",
+        "projects/financial/assets/main-section-07.webp",
+        "projects/financial/assets/main-section-08.webp",
+        "projects/financial/assets/main-section-09.webp"
+      ]
+    },
+    {
+      "slug": "aq-associates",
+      "name": "AQ Associates",
+      "headline": "Clarity for a complex service.",
+      "description": "A professional-services website that makes accounting and advisory offerings easier to navigate, with a direct service structure and clear contact points.",
+      "category": "websites",
+      "tags": [
+        "Corporate",
+        "Website"
+      ],
+      "background": "#f3c027",
+      "cover": "assets/thumbnails/aq-associates-banner.webp",
+      "screen": "assets/screens/aq-associates.webp",
+      "preview": "projects/aq-associates/index.html",
+      "variants": [],
+      "rendering": "source-preserving animated HTML showcase",
+      "featured": false,
+      "generatedThumbnail": true,
+      "designImages": [
+        "projects/aq-associates/assets/main-section-01.webp",
+        "projects/aq-associates/assets/main-section-02.webp",
+        "projects/aq-associates/assets/main-section-03.webp",
+        "projects/aq-associates/assets/main-section-04.webp",
+        "projects/aq-associates/assets/main-section-05.webp",
+        "projects/aq-associates/assets/main-section-06.webp",
+        "projects/aq-associates/assets/main-section-07.webp"
+      ]
+    },
+    {
+      "slug": "chinese-brother",
+      "name": "Chinese Brother",
+      "headline": "A little appetite appeal.",
+      "description": "A restaurant website direction with a warm visual identity, food-led imagery and a simple path from discovering the story to exploring the menu.",
+      "category": "websites",
+      "tags": [
+        "Hospitality",
+        "Website"
+      ],
+      "background": "#79091b",
+      "cover": "assets/covers/chinese-brother.webp",
+      "screen": "assets/screens/chinese-brother.webp",
+      "preview": "projects/chinese-brother/index.html",
+      "variants": [],
+      "rendering": "source-preserving animated HTML showcase",
+      "featured": false,
+      "designImages": [
+        "projects/chinese-brother/assets/main-section-01.webp",
+        "projects/chinese-brother/assets/main-section-02.webp",
+        "projects/chinese-brother/assets/main-section-03.webp",
+        "projects/chinese-brother/assets/main-section-04.webp",
+        "projects/chinese-brother/assets/main-section-05.webp"
+      ]
+    },
+    {
+      "slug": "herbiflow",
+      "name": "Herbiflow",
+      "headline": "Beauty, naturally considered.",
+      "description": "A beauty and wellness website that brings a broad product offering together through an organic palette, calm layouts and a consistent visual language.",
+      "category": "websites",
+      "tags": [
+        "Beauty",
+        "E-commerce"
+      ],
+      "background": "#095a43",
+      "cover": "assets/covers/herbiflow.webp",
+      "screen": "assets/screens/herbiflow.webp",
+      "preview": "projects/herbiflow/index.html",
+      "variants": [],
+      "rendering": "source-preserving animated HTML showcase",
+      "featured": false,
+      "designImages": [
+        "projects/herbiflow/assets/main-section-01.webp",
+        "projects/herbiflow/assets/main-section-02.webp",
+        "projects/herbiflow/assets/main-section-03.webp",
+        "projects/herbiflow/assets/main-section-04.webp",
+        "projects/herbiflow/assets/main-section-05.webp",
+        "projects/herbiflow/assets/main-section-06.webp",
+        "projects/herbiflow/assets/main-section-07.webp"
+      ]
+    },
+    {
+      "slug": "podcast",
+      "name": "Podcast Studio",
+      "headline": "Make room for a stronger voice.",
+      "description": "A podcast-studio website that introduces the space, explains packages and services, and gives visitors a clearer route towards a booking enquiry.",
+      "category": "websites",
+      "tags": [
+        "Media",
+        "Website"
+      ],
+      "background": "#eab247",
+      "cover": "assets/covers/podcast.webp",
+      "screen": "assets/screens/podcast.webp",
+      "preview": "projects/podcast/index.html",
+      "variants": [],
+      "rendering": "source-preserving animated HTML showcase",
+      "featured": false,
+      "designImages": [
+        "projects/podcast/assets/main-section-01.webp",
+        "projects/podcast/assets/main-section-02.webp",
+        "projects/podcast/assets/main-section-03.webp",
+        "projects/podcast/assets/main-section-04.webp",
+        "projects/podcast/assets/main-section-05.webp",
+        "projects/podcast/assets/main-section-06.webp",
+        "projects/podcast/assets/main-section-07.webp",
+        "projects/podcast/assets/main-section-08.webp",
+        "projects/podcast/assets/main-section-09.webp"
+      ]
+    },
+    {
+      "slug": "pulse-power-snacks",
+      "name": "Pulse Power Snacks",
+      "headline": "Good food. Plenty of personality.",
+      "description": "A playful food-brand website with energetic colour, product-led sections and a lively visual system for exploring flavours and the brand story.",
+      "category": "websites",
+      "tags": [
+        "Food",
+        "E-commerce"
+      ],
+      "background": "#08b899",
+      "cover": "assets/thumbnails/pulse-power-snacks-banner.webp",
+      "screen": "assets/screens/pulse-power-snacks.webp",
+      "preview": "projects/pulse-power-snacks/index.html",
+      "variants": [],
+      "rendering": "source-preserving animated HTML showcase",
+      "featured": false,
+      "generatedThumbnail": true,
+      "designImages": [
+        "projects/pulse-power-snacks/assets/main-section-01.webp",
+        "projects/pulse-power-snacks/assets/main-section-02.webp",
+        "projects/pulse-power-snacks/assets/main-section-03.webp",
+        "projects/pulse-power-snacks/assets/main-section-04.webp",
+        "projects/pulse-power-snacks/assets/main-section-05.webp",
+        "projects/pulse-power-snacks/assets/main-section-06.webp",
+        "projects/pulse-power-snacks/assets/main-section-07.webp"
+      ]
+    },
+    {
+      "slug": "steroid",
+      "name": "Steroid",
+      "headline": "A sharper digital introduction.",
+      "description": "A dark, technology-focused website direction that organises capabilities, expertise and project stories into a confident business presentation.",
+      "category": "websites",
+      "tags": [
+        "Technology",
+        "Website"
+      ],
+      "background": "#142431",
+      "cover": "assets/covers/steroid.webp",
+      "screen": "assets/screens/steroid.webp",
+      "preview": "projects/steroid/index.html",
+      "variants": [],
+      "rendering": "source-preserving animated HTML showcase",
+      "featured": false,
+      "designImages": [
+        "projects/steroid/assets/main-section-01.webp",
+        "projects/steroid/assets/main-section-02.webp",
+        "projects/steroid/assets/main-section-03.webp",
+        "projects/steroid/assets/main-section-04.webp",
+        "projects/steroid/assets/main-section-05.webp",
+        "projects/steroid/assets/main-section-06.webp",
+        "projects/steroid/assets/main-section-07.webp"
+      ]
+    },
+    {
+      "slug": "vividora",
+      "name": "Vividora",
+      "headline": "Beauty that feels considered.",
+      "description": "A beauty storefront balancing product discovery, category browsing and visual storytelling, with a light interface that keeps the product range readable.",
+      "category": "websites",
+      "tags": [
+        "Beauty",
+        "E-commerce"
+      ],
+      "background": "#e4e2e2",
+      "cover": "assets/covers/vividora.webp",
+      "screen": "assets/screens/vividora.webp",
+      "preview": "projects/vividora/index.html",
+      "variants": [],
+      "rendering": "source-preserving animated HTML showcase",
+      "featured": false,
+      "designImages": [
+        "projects/vividora/assets/main-section-01.webp",
+        "projects/vividora/assets/main-section-02.webp",
+        "projects/vividora/assets/main-section-03.webp",
+        "projects/vividora/assets/main-section-04.webp",
+        "projects/vividora/assets/main-section-05.webp",
+        "projects/vividora/assets/main-section-06.webp",
+        "projects/vividora/assets/main-section-07.webp"
+      ]
+    },
+    {
+      "slug": "waleed-khan",
+      "name": "Waleed Khan",
+      "headline": "A more personal property story.",
+      "description": "A real estate website that brings the agent, property imagery and enquiry journey together in a focused personal brand experience.",
+      "category": "websites",
+      "tags": [
+        "Real estate",
+        "Website"
+      ],
+      "background": "#b5a134",
+      "cover": "assets/covers/waleed-khan.webp",
+      "screen": "assets/screens/waleed-khan.webp",
+      "preview": "projects/waleed-khan/index.html",
+      "variants": [],
+      "rendering": "source-preserving animated HTML showcase",
+      "featured": false,
+      "designImages": [
+        "projects/waleed-khan/assets/main-section-01.webp",
+        "projects/waleed-khan/assets/main-section-02.webp",
+        "projects/waleed-khan/assets/main-section-03.webp",
+        "projects/waleed-khan/assets/main-section-04.webp",
+        "projects/waleed-khan/assets/main-section-05.webp",
+        "projects/waleed-khan/assets/main-section-06.webp",
+        "projects/waleed-khan/assets/main-section-07.webp",
+        "projects/waleed-khan/assets/main-section-08.webp"
+      ]
+    },
+    {
+      "slug": "homix",
+      "name": "Homix",
+      "headline": "Property investment, clearly presented.",
+      "tags": [
+        "Real estate",
+        "Website"
+      ],
+      "description": "A supplied property website design, presented as a static layout for closer review.",
+      "background": "#e9e9e9",
+      "cover": "assets/thumbnails/homix-banner.webp",
+      "preview": "projects/homix/index.html",
+      "variants": [],
+      "generatedThumbnail": true,
+      "designImages": [
+        "assets/artwork/homix-section-1.webp",
+        "assets/artwork/homix-section-2.webp",
+        "assets/artwork/homix-section-3.webp",
+        "assets/artwork/homix-section-4.webp",
+        "assets/artwork/homix-section-5.webp"
+      ]
+    },
+    {
+      "slug": "dashboard-design",
+      "name": "Dashboard Design",
+      "headline": "Complex information, organised with clarity.",
+      "tags": [
+        "Dashboard",
+        "UI/UX"
+      ],
+      "description": "A supplied dashboard interface design, presented as a static layout for closer review.",
+      "background": "#e9e9e9",
+      "cover": "assets/thumbnails/dashboard-design-banner.webp",
+      "preview": "projects/dashboard-design/index.html",
+      "variants": [],
+      "generatedThumbnail": true,
+      "designImages": [
+        "assets/artwork/dashboard-design-section-1.webp",
+        "assets/artwork/dashboard-design-section-2.webp"
+      ]
+    }
+  ],
+  "artwork": [
+    {
+      "slug": "alignvision",
+      "title": "AlignVision",
+      "category": "branding",
+      "discipline": "Brand identity",
+      "images": [
+        "assets/artwork/logo-align-vision-logo.webp",
+        "assets/artwork/stationary-alignvision.webp"
+      ],
+      "source": [
+        "Logo/Align vision logo.jpg",
+        "Stationary/AlignVision.jpg"
+      ]
+    },
+    {
+      "slug": "pebblay-decor",
+      "title": "Pebblay Decor",
+      "category": "branding",
+      "discipline": "Brand identity",
+      "images": [
+        "assets/artwork/logo-pebblay-decor-logo.webp",
+        "assets/artwork/stationary-pebblay-decor-stationary.webp"
+      ],
+      "source": [
+        "Logo/Pebblay Decor Logo.jpg",
+        "Stationary/Pebblay Decor Stationary.jpg"
+      ]
+    },
+    {
+      "slug": "titancore-fitness",
+      "title": "TitanCore Fitness",
+      "category": "branding",
+      "discipline": "Brand identity",
+      "images": [
+        "assets/artwork/logo-titancore-logo.webp",
+        "assets/artwork/stationary-titan-core-stationery.webp"
+      ],
+      "source": [
+        "Logo/TitanCore Logo.jpg",
+        "Stationary/Titan Core Stationery.jpg"
+      ]
+    },
+    {
+      "slug": "asan-real-estate-identity",
+      "title": "Asan Real Estate Identity",
+      "category": "branding",
+      "discipline": "Brand identity",
+      "images": [
+        "assets/artwork/logo-logo4.webp",
+        "assets/artwork/stationary-asan-stationary-mockup.webp"
+      ],
+      "source": [
+        "Logo/Logo4.jpg",
+        "Stationary/Asan Stationary mockup.jpg"
+      ]
+    },
+    {
+      "slug": "talkforge-studio",
+      "title": "TalkForge Studio",
+      "category": "branding",
+      "discipline": "Brand identity",
+      "images": [
+        "assets/artwork/logo-talkforge-logo.webp"
+      ],
+      "source": [
+        "Logo/TalkForge Logo .jpg"
+      ]
+    },
+    {
+      "slug": "pankaj-ahuja",
+      "title": "Pankaj Ahuja",
+      "category": "branding",
+      "discipline": "Brand identity",
+      "images": [
+        "assets/artwork/logo-logo1.webp"
+      ],
+      "source": [
+        "Logo/Logo1.jpg"
+      ]
+    },
+    {
+      "slug": "amjad-baig",
+      "title": "Amjad Baig",
+      "category": "branding",
+      "discipline": "Brand identity",
+      "images": [
+        "assets/artwork/logo-logo2.webp"
+      ],
+      "source": [
+        "Logo/Logo2.jpg"
+      ]
+    },
+    {
+      "slug": "falcon-ireland",
+      "title": "Falcon Ireland",
+      "category": "branding",
+      "discipline": "Brand identity",
+      "images": [
+        "assets/artwork/logo-logo3.webp"
+      ],
+      "source": [
+        "Logo/Logo3.jpg"
+      ]
+    },
+    {
+      "slug": "black-gold-stationery",
+      "title": "Black & Gold Stationery",
+      "category": "branding",
+      "discipline": "Brand identity",
+      "images": [
+        "assets/artwork/stationary-stationary-mockup.webp"
+      ],
+      "source": [
+        "Stationary/Stationary Mockup.jpg"
+      ]
+    },
+    {
+      "slug": "monochrome-stationery",
+      "title": "Monochrome Stationery",
+      "category": "branding",
+      "discipline": "Brand identity",
+      "images": [
+        "assets/artwork/stationary-stationary-mockup-004.webp"
+      ],
+      "source": [
+        "Stationary/Stationary_Mockup_004.jpg"
+      ]
+    },
+    {
+      "slug": "strawberry-drink-packaging",
+      "title": "Strawberry Drink Packaging",
+      "category": "branding",
+      "discipline": "Packaging",
+      "images": [
+        "assets/artwork/packaging-packaging-01.webp"
+      ],
+      "source": [
+        "Packaging/Packaging-01.jpg"
+      ]
+    },
+    {
+      "slug": "fragrance-packaging",
+      "title": "Fragrance Packaging",
+      "category": "branding",
+      "discipline": "Packaging",
+      "images": [
+        "assets/artwork/packaging-packaging-02.webp"
+      ],
+      "source": [
+        "Packaging/Packaging-02.jpg"
+      ]
+    },
+    {
+      "slug": "native-beauty-packaging",
+      "title": "Native Beauty Packaging",
+      "category": "branding",
+      "discipline": "Packaging",
+      "images": [
+        "assets/artwork/packaging-packaging-03.webp"
+      ],
+      "source": [
+        "Packaging/Packaging-03.jpg"
+      ]
+    },
+    {
+      "slug": "vellvia-skincare-packaging",
+      "title": "Vellvia Skincare Packaging",
+      "category": "branding",
+      "discipline": "Packaging",
+      "images": [
+        "assets/artwork/packaging-packaging-04.webp"
+      ],
+      "source": [
+        "Packaging/Packaging-04.jpg"
+      ]
+    },
+    {
+      "slug": "branded-tumbler",
+      "title": "Branded Tumbler",
+      "category": "branding",
+      "discipline": "Packaging",
+      "images": [
+        "assets/artwork/packaging-packaging-05.webp"
+      ],
+      "source": [
+        "Packaging/Packaging-05.jpg"
+      ]
+    },
+    {
+      "slug": "restaurant-offer-flyer",
+      "title": "Restaurant Offer Flyer",
+      "category": "posters",
+      "discipline": "Poster & flyer",
+      "images": [
+        "assets/artwork/flyer-poster-01.webp"
+      ],
+      "source": [
+        "Flyer/Poster-01.jpg"
+      ]
+    },
+    {
+      "slug": "julien-alfred-sports-poster",
+      "title": "Julien Alfred Sports Poster",
+      "category": "posters",
+      "discipline": "Poster & flyer",
+      "images": [
+        "assets/artwork/flyer-poster-02.webp"
+      ],
+      "source": [
+        "Flyer/Poster-02.jpg"
+      ]
+    },
+    {
+      "slug": "raffle-contest-poster",
+      "title": "Raffle Contest Poster",
+      "category": "posters",
+      "discipline": "Poster & flyer",
+      "images": [
+        "assets/artwork/flyer-poster-03.webp"
+      ],
+      "source": [
+        "Flyer/Poster-03.jpg"
+      ]
+    },
+    {
+      "slug": "brand-day-flyer",
+      "title": "Brand Day Flyer",
+      "category": "posters",
+      "discipline": "Poster & flyer",
+      "images": [
+        "assets/artwork/flyer-poster-04.webp"
+      ],
+      "source": [
+        "Flyer/Poster-04.jpg"
+      ]
+    },
+    {
+      "slug": "summer-campaign-poster",
+      "title": "Summer Campaign Poster",
+      "category": "posters",
+      "discipline": "Poster & flyer",
+      "images": [
+        "assets/artwork/flyer-poster-05.webp"
+      ],
+      "source": [
+        "Flyer/Poster-05.jpg"
+      ]
+    },
+    {
+      "slug": "devynne-charlton-sports-poster",
+      "title": "Devynne Charlton Sports Poster",
+      "category": "posters",
+      "discipline": "Poster & flyer",
+      "images": [
+        "assets/artwork/flyer-poster-06.webp"
+      ],
+      "source": [
+        "Flyer/Poster-06.jpg"
+      ]
+    },
+    {
+      "slug": "restaurant-offer-second-direction",
+      "title": "Restaurant Offer \u2014 Second Direction",
+      "category": "posters",
+      "discipline": "Poster & flyer",
+      "images": [
+        "assets/artwork/flyer-poster-07.webp"
+      ],
+      "source": [
+        "Flyer/Poster-07.jpg"
+      ]
+    },
+    {
+      "slug": "property-campaign-socials",
+      "title": "Property & Campaign Socials",
+      "category": "social-media",
+      "discipline": "Social media",
+      "images": [
+        "assets/artwork/social-media-social-media-1.webp"
+      ],
+      "source": [
+        "Social Media/Social Media 1.jpg"
+      ]
+    },
+    {
+      "slug": "restaurant-social-media",
+      "title": "Restaurant Social Media",
+      "category": "social-media",
+      "discipline": "Social media",
+      "images": [
+        "assets/artwork/social-media-social-media-2.webp"
+      ],
+      "source": [
+        "Social Media/Social Media 2.jpg"
+      ]
+    },
+    {
+      "slug": "beauty-wellness-socials",
+      "title": "Beauty & Wellness Socials",
+      "category": "social-media",
+      "discipline": "Social media",
+      "images": [
+        "assets/artwork/social-media-social-media-3.webp"
+      ],
+      "source": [
+        "Social Media/Social Media 3.jpg"
+      ]
+    },
+    {
+      "slug": "real-estate-event-socials",
+      "title": "Real Estate & Event Socials",
+      "category": "social-media",
+      "discipline": "Social media",
+      "images": [
+        "assets/artwork/social-media-social-media-4.webp"
+      ],
+      "source": [
+        "Social Media/Social Media 4.jpg"
+      ]
+    },
+    {
+      "slug": "design-reference-resources",
+      "title": "Design Reference Resources",
+      "category": "social-media",
+      "discipline": "Carousel",
+      "images": [
+        "assets/artwork/social-media-carousel-carousel-1-01.webp",
+        "assets/artwork/social-media-carousel-carousel-1-02.webp",
+        "assets/artwork/social-media-carousel-carousel-1-03.webp",
+        "assets/artwork/social-media-carousel-carousel-1-04.webp",
+        "assets/artwork/social-media-carousel-carousel-1-05.webp",
+        "assets/artwork/social-media-carousel-carousel-1-06.webp",
+        "assets/artwork/social-media-carousel-carousel-1-07.webp",
+        "assets/artwork/social-media-carousel-carousel-1-08.webp"
+      ],
+      "source": [
+        "Social Media/Carousel/Carousel 1-01.jpg",
+        "Social Media/Carousel/Carousel 1-02.jpg",
+        "Social Media/Carousel/Carousel 1-03.jpg",
+        "Social Media/Carousel/Carousel 1-04.jpg",
+        "Social Media/Carousel/Carousel 1-05.jpg",
+        "Social Media/Carousel/Carousel 1-06.jpg",
+        "Social Media/Carousel/Carousel 1-07.jpg",
+        "Social Media/Carousel/Carousel 1-08.jpg"
+      ]
+    },
+    {
+      "slug": "productivity-for-entrepreneurs",
+      "title": "Productivity for Entrepreneurs",
+      "category": "social-media",
+      "discipline": "Carousel",
+      "images": [
+        "assets/artwork/social-media-carousel-design-carousel-design-1.webp",
+        "assets/artwork/social-media-carousel-design-carousel-design-2.webp",
+        "assets/artwork/social-media-carousel-design-carousel-design-3.webp",
+        "assets/artwork/social-media-carousel-design-carousel-design-4.webp",
+        "assets/artwork/social-media-carousel-design-carousel-design-5.webp",
+        "assets/artwork/social-media-carousel-design-carousel-design-6.webp",
+        "assets/artwork/social-media-carousel-design-carousel-design-7.webp",
+        "assets/artwork/social-media-carousel-design-carousel-design-8.webp",
+        "assets/artwork/social-media-carousel-design-carousel-design-9.webp",
+        "assets/artwork/social-media-carousel-design-carousel-design-10.webp"
+      ],
+      "source": [
+        "Social Media/Carousel Design/Carousel Design - 1.jpg",
+        "Social Media/Carousel Design/Carousel Design - 2.jpg",
+        "Social Media/Carousel Design/Carousel Design - 3.jpg",
+        "Social Media/Carousel Design/Carousel Design - 4.jpg",
+        "Social Media/Carousel Design/Carousel Design - 5.jpg",
+        "Social Media/Carousel Design/Carousel Design - 6.jpg",
+        "Social Media/Carousel Design/Carousel Design - 7.jpg",
+        "Social Media/Carousel Design/Carousel Design - 8.jpg",
+        "Social Media/Carousel Design/Carousel Design - 9.jpg",
+        "Social Media/Carousel Design/Carousel Design - 10.jpg"
+      ]
+    },
+    {
+      "slug": "chinese-sisters-social-campaign",
+      "title": "Chinese Sisters Social Campaign",
+      "category": "social-media",
+      "discipline": "Social campaign",
+      "images": [
+        "assets/artwork/social-chinese-sister-01.webp",
+        "assets/artwork/social-chinese-sister-02.webp",
+        "assets/artwork/social-chinese-sister-03.webp",
+        "assets/artwork/social-chinese-sister-04.webp",
+        "assets/artwork/social-chinese-sister-05.webp",
+        "assets/artwork/social-chinese-sister-06.webp",
+        "assets/artwork/social-chinese-sister-07.webp",
+        "assets/artwork/social-chinese-sister-08.webp",
+        "assets/artwork/social-chinese-sister-09.webp",
+        "assets/artwork/social-chinese-sister-10.webp"
+      ],
+      "source": [
+        "Social Media/Chinese sister.pdf"
+      ]
+    },
+    {
+      "slug": "digital-marketing-campaign",
+      "title": "Digital Marketing Campaign",
+      "category": "social-media",
+      "discipline": "Social campaign",
+      "images": [
+        "assets/artwork/social-marketing-01.webp",
+        "assets/artwork/social-marketing-02.webp",
+        "assets/artwork/social-marketing-03.webp",
+        "assets/artwork/social-marketing-04.webp",
+        "assets/artwork/social-marketing-05.webp",
+        "assets/artwork/social-marketing-06.webp",
+        "assets/artwork/social-marketing-07.webp",
+        "assets/artwork/social-marketing-08.webp",
+        "assets/artwork/social-marketing-09.webp",
+        "assets/artwork/social-marketing-10.webp"
+      ],
+      "source": [
+        "Social Media/Marketing.pdf"
+      ]
+    },
+    {
+      "slug": "pizza-social-campaign",
+      "title": "Pizza Social Campaign",
+      "category": "social-media",
+      "discipline": "Social campaign",
+      "images": [
+        "assets/artwork/social-pizza-01.webp",
+        "assets/artwork/social-pizza-02.webp",
+        "assets/artwork/social-pizza-03.webp",
+        "assets/artwork/social-pizza-04.webp",
+        "assets/artwork/social-pizza-05.webp",
+        "assets/artwork/social-pizza-06.webp",
+        "assets/artwork/social-pizza-07.webp",
+        "assets/artwork/social-pizza-08.webp",
+        "assets/artwork/social-pizza-09.webp",
+        "assets/artwork/social-pizza-10.webp"
+      ],
+      "source": [
+        "Social Media/Pizza.pdf"
+      ]
+    },
+    {
+      "slug": "school-admissions-campaign",
+      "title": "School Admissions Campaign",
+      "category": "social-media",
+      "discipline": "Social campaign",
+      "images": [
+        "assets/artwork/social-school-01.webp",
+        "assets/artwork/social-school-02.webp",
+        "assets/artwork/social-school-03.webp",
+        "assets/artwork/social-school-04.webp",
+        "assets/artwork/social-school-05.webp",
+        "assets/artwork/social-school-06.webp",
+        "assets/artwork/social-school-07.webp",
+        "assets/artwork/social-school-08.webp",
+        "assets/artwork/social-school-09.webp",
+        "assets/artwork/social-school-10.webp"
+      ],
+      "source": [
+        "Social Media/School.pdf"
+      ]
+    },
+    {
+      "slug": "shawarma-social-campaign",
+      "title": "Shawarma Social Campaign",
+      "category": "social-media",
+      "discipline": "Social campaign",
+      "images": [
+        "assets/artwork/social-shawarma-01.webp",
+        "assets/artwork/social-shawarma-02.webp",
+        "assets/artwork/social-shawarma-03.webp",
+        "assets/artwork/social-shawarma-04.webp",
+        "assets/artwork/social-shawarma-05.webp",
+        "assets/artwork/social-shawarma-06.webp",
+        "assets/artwork/social-shawarma-07.webp",
+        "assets/artwork/social-shawarma-08.webp",
+        "assets/artwork/social-shawarma-09.webp",
+        "assets/artwork/social-shawarma-10.webp"
+      ],
+      "source": [
+        "Social Media/Shawarma.pdf"
+      ]
+    },
+    {
+      "slug": "skincare-social-campaign",
+      "title": "Skincare Social Campaign",
+      "category": "social-media",
+      "discipline": "Social campaign",
+      "images": [
+        "assets/artwork/social-skincare-01.webp",
+        "assets/artwork/social-skincare-02.webp",
+        "assets/artwork/social-skincare-03.webp",
+        "assets/artwork/social-skincare-04.webp",
+        "assets/artwork/social-skincare-05.webp",
+        "assets/artwork/social-skincare-06.webp",
+        "assets/artwork/social-skincare-07.webp",
+        "assets/artwork/social-skincare-08.webp",
+        "assets/artwork/social-skincare-09.webp",
+        "assets/artwork/social-skincare-10.webp"
+      ],
+      "source": [
+        "Social Media/Skincare.pdf"
+      ]
+    },
+    {
+      "slug": "sushi-social-campaign",
+      "title": "Sushi Social Campaign",
+      "category": "social-media",
+      "discipline": "Social campaign",
+      "images": [
+        "assets/artwork/social-sushi-01.webp",
+        "assets/artwork/social-sushi-02.webp",
+        "assets/artwork/social-sushi-03.webp",
+        "assets/artwork/social-sushi-04.webp",
+        "assets/artwork/social-sushi-05.webp",
+        "assets/artwork/social-sushi-06.webp",
+        "assets/artwork/social-sushi-07.webp",
+        "assets/artwork/social-sushi-08.webp",
+        "assets/artwork/social-sushi-09.webp",
+        "assets/artwork/social-sushi-10.webp"
+      ],
+      "source": [
+        "Social Media/Sushi.pdf"
+      ]
+    }
+  ]
+}

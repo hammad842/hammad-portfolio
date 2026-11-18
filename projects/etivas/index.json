@@ -1,0 +1,414 @@
+{
+  "slug": "etivas",
+  "name": "Etivas",
+  "file": "Etivas Website.pdf",
+  "category": "Events & Web3",
+  "accent": "#8a3ffc",
+  "theme": "dark",
+  "motion": "tech",
+  "cuts": [
+    0,
+    1150,
+    1800,
+    3270,
+    4490,
+    5610,
+    6450,
+    7450,
+    7930,
+    8418
+  ],
+  "labels": [
+    "The future of crypto",
+    "Event countdown",
+    "Upcoming forums",
+    "Event highlights",
+    "Event calendar",
+    "Reserve your pass",
+    "Client stories",
+    "Stay updated",
+    "Contact"
+  ],
+  "sourceSize": [
+    1920.0,
+    8418.0
+  ],
+  "crop": [
+    0.0,
+    0.0,
+    1920.0,
+    8418.0
+  ],
+  "size": [
+    1920.0,
+    8418.0
+  ],
+  "sections": [
+    {
+      "id": "home",
+      "label": "The future of crypto",
+      "start": 0.0,
+      "height": 1137.0,
+      "width": 1920.0,
+      "asset": "assets/main-section-01.webp",
+      "pixels": [
+        2560,
+        1516
+      ]
+    },
+    {
+      "id": "event-countdown",
+      "label": "Event countdown",
+      "start": 1137.0,
+      "height": 624.0,
+      "width": 1920.0,
+      "asset": "assets/main-section-02.webp",
+      "pixels": [
+        2560,
+        832
+      ]
+    },
+    {
+      "id": "upcoming-forums",
+      "label": "Upcoming forums",
+      "start": 1761.0,
+      "height": 1533.0,
+      "width": 1920.0,
+      "asset": "assets/main-section-03.webp",
+      "pixels": [
+        2560,
+        2044
+      ]
+    },
+    {
+      "id": "event-highlights",
+      "label": "Event highlights",
+      "start": 3294.0,
+      "height": 1242.0,
+      "width": 1920.0,
+      "asset": "assets/main-section-04.webp",
+      "pixels": [
+        2560,
+        1656
+      ]
+    },
+    {
+      "id": "event-calendar",
+      "label": "Event calendar",
+      "start": 4536.0,
+      "height": 1125.0,
+      "width": 1920.0,
+      "asset": "assets/main-section-05.webp",
+      "pixels": [
+        2560,
+        1500
+      ]
+    },
+    {
+      "id": "reserve-your-pass",
+      "label": "Reserve your pass",
+      "start": 5661.0,
+      "height": 912.0,
+      "width": 1920.0,
+      "asset": "assets/main-section-06.webp",
+      "pixels": [
+        2560,
+        1216
+      ]
+    },
+    {
+      "id": "client-stories",
+      "label": "Client stories",
+      "start": 6573.0,
+      "height": 912.0,
+      "width": 1920.0,
+      "asset": "assets/main-section-07.webp",
+      "pixels": [
+        2560,
+        1216
+      ]
+    },
+    {
+      "id": "stay-updated",
+      "label": "Stay updated",
+      "start": 7485.0,
+      "height": 405.0,
+      "width": 1920.0,
+      "asset": "assets/main-section-08.webp",
+      "pixels": [
+        2560,
+        540
+      ]
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "start": 7890.0,
+      "height": 528.0,
+      "width": 1920.0,
+      "asset": "assets/main-section-09.webp",
+      "pixels": [
+        2560,
+        704
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "kind": "detail",
+      "section": "reserve-your-pass",
+      "label": "Etivas — design detail 1",
+      "box": [
+        0,
+        5724.0,
+        1048.5487060546875,
+        767.0
+      ],
+      "asset": "assets/main-section-06.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "client-stories",
+      "label": "Etivas — design detail 2",
+      "box": [
+        752.5858764648438,
+        6757.0,
+        1075.5466918945312,
+        541.0
+      ],
+      "asset": "assets/main-section-07.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "client-stories",
+      "label": "Etivas — design detail 3",
+      "box": [
+        0,
+        6757.0,
+        778.2352905273438,
+        541.0
+      ],
+      "asset": "assets/main-section-07.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "event-highlights",
+      "label": "Etivas — design detail 4",
+      "box": [
+        194.0,
+        3511.187255859375,
+        755.214111328125,
+        503.47607421875
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "event-highlights",
+      "label": "Etivas — design detail 5",
+      "box": [
+        582.4228515625,
+        3899.60986328125,
+        755.214111328125,
+        503.47607421875
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "event-highlights",
+      "label": "Etivas — design detail 6",
+      "box": [
+        58.107635498046875,
+        3968.422607421875,
+        638.5762023925781,
+        365.850830078125
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "event-highlights",
+      "label": "Etivas — design detail 7",
+      "box": [
+        880.6220703125,
+        3579.999755859375,
+        549.11962890625,
+        365.850830078125
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "event-highlights",
+      "label": "Etivas — design detail 8",
+      "box": [
+        1269.04443359375,
+        3579.999755859375,
+        549.11962890625,
+        365.850830078125
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "event-highlights",
+      "label": "Etivas — design detail 9",
+      "box": [
+        1269.216064453125,
+        3968.422607421875,
+        548.7763671875,
+        365.850830078125
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "upcoming-forums",
+      "label": "Etivas — design detail 10",
+      "box": [
+        216.64404296875,
+        2045.2464599609375,
+        290.9756164550781,
+        517.5069580078125
+      ],
+      "asset": "assets/main-section-03.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "upcoming-forums",
+      "label": "Etivas — design detail 11",
+      "box": [
+        216.64404296875,
+        2779.24658203125,
+        290.9756164550781,
+        514.75341796875
+      ],
+      "asset": "assets/main-section-03.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "upcoming-forums",
+      "label": "Etivas — design detail 12",
+      "box": [
+        216.64404296875,
+        2489.140380859375,
+        290.9756164550781,
+        363.719482421875
+      ],
+      "asset": "assets/main-section-03.webp"
+    }
+  ],
+  "navigation": [
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "Home",
+      "box": [
+        877.30908203125,
+        92.56847896575928,
+        66.6536865234375,
+        38.676086044311525
+      ],
+      "destination": "home"
+    },
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "Contact US",
+      "box": [
+        1439.42138671875,
+        92.56847896575928,
+        109.986328125,
+        38.676086044311525
+      ],
+      "destination": "contact"
+    },
+    {
+      "kind": "scroll",
+      "section": "upcoming-forums",
+      "label": "learn more",
+      "box": [
+        596.75634765625,
+        2382.4,
+        114.34326171875,
+        37.6
+      ],
+      "destination": "event-countdown"
+    },
+    {
+      "kind": "scroll",
+      "section": "upcoming-forums",
+      "label": "learn more",
+      "box": [
+        562.75634765625,
+        2748.4,
+        114.34326171875,
+        37.6
+      ],
+      "destination": "event-countdown"
+    },
+    {
+      "kind": "scroll",
+      "section": "upcoming-forums",
+      "label": "learn more",
+      "box": [
+        596.75634765625,
+        3114.4,
+        114.34326171875,
+        37.6
+      ],
+      "destination": "event-countdown"
+    },
+    {
+      "kind": "contact",
+      "section": "reserve-your-pass",
+      "label": "Book Now",
+      "box": [
+        1060.5,
+        6327.4,
+        70.476806640625,
+        37.6
+      ],
+      "destination": null
+    },
+    {
+      "kind": "contact",
+      "section": "stay-updated",
+      "label": "subscribe",
+      "box": [
+        1064.0,
+        7761.4,
+        82.63330078125,
+        37.6
+      ],
+      "destination": null
+    },
+    {
+      "kind": "scroll",
+      "section": "contact",
+      "label": "Contact Us",
+      "box": [
+        1405.3359375,
+        8088.4,
+        101.5487060546875,
+        37.6
+      ],
+      "destination": "contact"
+    },
+    {
+      "kind": "scroll",
+      "section": "contact",
+      "label": "Contact Us",
+      "box": [
+        1653.3359375,
+        8169.4,
+        101.5523681640625,
+        37.6
+      ],
+      "destination": "contact"
+    }
+  ],
+  "rendering": "source-preserving HTML showcase with raster artwork sections",
+  "textLayer": "original PDF copy"
+}

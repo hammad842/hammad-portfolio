@@ -1,0 +1,531 @@
+{
+  "sourceFolder": "https://drive.google.com/drive/folders/1gHhtrruD0wIeI8Q8uAPvrknbBaMd_52v",
+  "artwork": [
+    {
+      "slug": "alignvision",
+      "title": "AlignVision",
+      "category": "branding",
+      "discipline": "Brand identity",
+      "images": [
+        "assets/artwork/logo-align-vision-logo.webp",
+        "assets/artwork/stationary-alignvision.webp"
+      ],
+      "source": [
+        "Logo/Align vision logo.jpg",
+        "Stationary/AlignVision.jpg"
+      ]
+    },
+    {
+      "slug": "pebblay-decor",
+      "title": "Pebblay Decor",
+      "category": "branding",
+      "discipline": "Brand identity",
+      "images": [
+        "assets/artwork/logo-pebblay-decor-logo.webp",
+        "assets/artwork/stationary-pebblay-decor-stationary.webp"
+      ],
+      "source": [
+        "Logo/Pebblay Decor Logo.jpg",
+        "Stationary/Pebblay Decor Stationary.jpg"
+      ]
+    },
+    {
+      "slug": "titancore-fitness",
+      "title": "TitanCore Fitness",
+      "category": "branding",
+      "discipline": "Brand identity",
+      "images": [
+        "assets/artwork/logo-titancore-logo.webp",
+        "assets/artwork/stationary-titan-core-stationery.webp"
+      ],
+      "source": [
+        "Logo/TitanCore Logo.jpg",
+        "Stationary/Titan Core Stationery.jpg"
+      ]
+    },
+    {
+      "slug": "asan-real-estate-identity",
+      "title": "Asan Real Estate Identity",
+      "category": "branding",
+      "discipline": "Brand identity",
+      "images": [
+        "assets/artwork/logo-logo4.webp",
+        "assets/artwork/stationary-asan-stationary-mockup.webp"
+      ],
+      "source": [
+        "Logo/Logo4.jpg",
+        "Stationary/Asan Stationary mockup.jpg"
+      ]
+    },
+    {
+      "slug": "talkforge-studio",
+      "title": "TalkForge Studio",
+      "category": "branding",
+      "discipline": "Brand identity",
+      "images": [
+        "assets/artwork/logo-talkforge-logo.webp"
+      ],
+      "source": [
+        "Logo/TalkForge Logo .jpg"
+      ]
+    },
+    {
+      "slug": "pankaj-ahuja",
+      "title": "Pankaj Ahuja",
+      "category": "branding",
+      "discipline": "Brand identity",
+      "images": [
+        "assets/artwork/logo-logo1.webp"
+      ],
+      "source": [
+        "Logo/Logo1.jpg"
+      ]
+    },
+    {
+      "slug": "amjad-baig",
+      "title": "Amjad Baig",
+      "category": "branding",
+      "discipline": "Brand identity",
+      "images": [
+        "assets/artwork/logo-logo2.webp"
+      ],
+      "source": [
+        "Logo/Logo2.jpg"
+      ]
+    },
+    {
+      "slug": "falcon-ireland",
+      "title": "Falcon Ireland",
+      "category": "branding",
+      "discipline": "Brand identity",
+      "images": [
+        "assets/artwork/logo-logo3.webp"
+      ],
+      "source": [
+        "Logo/Logo3.jpg"
+      ]
+    },
+    {
+      "slug": "black-gold-stationery",
+      "title": "Black & Gold Stationery",
+      "category": "branding",
+      "discipline": "Brand identity",
+      "images": [
+        "assets/artwork/stationary-stationary-mockup.webp"
+      ],
+      "source": [
+        "Stationary/Stationary Mockup.jpg"
+      ]
+    },
+    {
+      "slug": "monochrome-stationery",
+      "title": "Monochrome Stationery",
+      "category": "branding",
+      "discipline": "Brand identity",
+      "images": [
+        "assets/artwork/stationary-stationary-mockup-004.webp"
+      ],
+      "source": [
+        "Stationary/Stationary_Mockup_004.jpg"
+      ]
+    },
+    {
+      "slug": "strawberry-drink-packaging",
+      "title": "Strawberry Drink Packaging",
+      "category": "branding",
+      "discipline": "Packaging",
+      "images": [
+        "assets/artwork/packaging-packaging-01.webp"
+      ],
+      "source": [
+        "Packaging/Packaging-01.jpg"
+      ]
+    },
+    {
+      "slug": "fragrance-packaging",
+      "title": "Fragrance Packaging",
+      "category": "branding",
+      "discipline": "Packaging",
+      "images": [
+        "assets/artwork/packaging-packaging-02.webp"
+      ],
+      "source": [
+        "Packaging/Packaging-02.jpg"
+      ]
+    },
+    {
+      "slug": "native-beauty-packaging",
+      "title": "Native Beauty Packaging",
+      "category": "branding",
+      "discipline": "Packaging",
+      "images": [
+        "assets/artwork/packaging-packaging-03.webp"
+      ],
+      "source": [
+        "Packaging/Packaging-03.jpg"
+      ]
+    },
+    {
+      "slug": "vellvia-skincare-packaging",
+      "title": "Vellvia Skincare Packaging",
+      "category": "branding",
+      "discipline": "Packaging",
+      "images": [
+        "assets/artwork/packaging-packaging-04.webp"
+      ],
+      "source": [
+        "Packaging/Packaging-04.jpg"
+      ]
+    },
+    {
+      "slug": "branded-tumbler",
+      "title": "Branded Tumbler",
+      "category": "branding",
+      "discipline": "Packaging",
+      "images": [
+        "assets/artwork/packaging-packaging-05.webp"
+      ],
+      "source": [
+        "Packaging/Packaging-05.jpg"
+      ]
+    },
+    {
+      "slug": "restaurant-offer-flyer",
+      "title": "Restaurant Offer Flyer",
+      "category": "posters",
+      "discipline": "Poster & flyer",
+      "images": [
+        "assets/artwork/flyer-poster-01.webp"
+      ],
+      "source": [
+        "Flyer/Poster-01.jpg"
+      ]
+    },
+    {
+      "slug": "julien-alfred-sports-poster",
+      "title": "Julien Alfred Sports Poster",
+      "category": "posters",
+      "discipline": "Poster & flyer",
+      "images": [
+        "assets/artwork/flyer-poster-02.webp"
+      ],
+      "source": [
+        "Flyer/Poster-02.jpg"
+      ]
+    },
+    {
+      "slug": "raffle-contest-poster",
+      "title": "Raffle Contest Poster",
+      "category": "posters",
+      "discipline": "Poster & flyer",
+      "images": [
+        "assets/artwork/flyer-poster-03.webp"
+      ],
+      "source": [
+        "Flyer/Poster-03.jpg"
+      ]
+    },
+    {
+      "slug": "brand-day-flyer",
+      "title": "Brand Day Flyer",
+      "category": "posters",
+      "discipline": "Poster & flyer",
+      "images": [
+        "assets/artwork/flyer-poster-04.webp"
+      ],
+      "source": [
+        "Flyer/Poster-04.jpg"
+      ]
+    },
+    {
+      "slug": "summer-campaign-poster",
+      "title": "Summer Campaign Poster",
+      "category": "posters",
+      "discipline": "Poster & flyer",
+      "images": [
+        "assets/artwork/flyer-poster-05.webp"
+      ],
+      "source": [
+        "Flyer/Poster-05.jpg"
+      ]
+    },
+    {
+      "slug": "devynne-charlton-sports-poster",
+      "title": "Devynne Charlton Sports Poster",
+      "category": "posters",
+      "discipline": "Poster & flyer",
+      "images": [
+        "assets/artwork/flyer-poster-06.webp"
+      ],
+      "source": [
+        "Flyer/Poster-06.jpg"
+      ]
+    },
+    {
+      "slug": "restaurant-offer-second-direction",
+      "title": "Restaurant Offer \u2014 Second Direction",
+      "category": "posters",
+      "discipline": "Poster & flyer",
+      "images": [
+        "assets/artwork/flyer-poster-07.webp"
+      ],
+      "source": [
+        "Flyer/Poster-07.jpg"
+      ]
+    },
+    {
+      "slug": "property-campaign-socials",
+      "title": "Property & Campaign Socials",
+      "category": "social-media",
+      "discipline": "Social media",
+      "images": [
+        "assets/artwork/social-media-social-media-1.webp"
+      ],
+      "source": [
+        "Social Media/Social Media 1.jpg"
+      ]
+    },
+    {
+      "slug": "restaurant-social-media",
+      "title": "Restaurant Social Media",
+      "category": "social-media",
+      "discipline": "Social media",
+      "images": [
+        "assets/artwork/social-media-social-media-2.webp"
+      ],
+      "source": [
+        "Social Media/Social Media 2.jpg"
+      ]
+    },
+    {
+      "slug": "beauty-wellness-socials",
+      "title": "Beauty & Wellness Socials",
+      "category": "social-media",
+      "discipline": "Social media",
+      "images": [
+        "assets/artwork/social-media-social-media-3.webp"
+      ],
+      "source": [
+        "Social Media/Social Media 3.jpg"
+      ]
+    },
+    {
+      "slug": "real-estate-event-socials",
+      "title": "Real Estate & Event Socials",
+      "category": "social-media",
+      "discipline": "Social media",
+      "images": [
+        "assets/artwork/social-media-social-media-4.webp"
+      ],
+      "source": [
+        "Social Media/Social Media 4.jpg"
+      ]
+    },
+    {
+      "slug": "design-reference-resources",
+      "title": "Design Reference Resources",
+      "category": "social-media",
+      "discipline": "Carousel",
+      "images": [
+        "assets/artwork/social-media-carousel-carousel-1-01.webp",
+        "assets/artwork/social-media-carousel-carousel-1-02.webp",
+        "assets/artwork/social-media-carousel-carousel-1-03.webp",
+        "assets/artwork/social-media-carousel-carousel-1-04.webp",
+        "assets/artwork/social-media-carousel-carousel-1-05.webp",
+        "assets/artwork/social-media-carousel-carousel-1-06.webp",
+        "assets/artwork/social-media-carousel-carousel-1-07.webp",
+        "assets/artwork/social-media-carousel-carousel-1-08.webp"
+      ],
+      "source": [
+        "Social Media/Carousel/Carousel 1-01.jpg",
+        "Social Media/Carousel/Carousel 1-02.jpg",
+        "Social Media/Carousel/Carousel 1-03.jpg",
+        "Social Media/Carousel/Carousel 1-04.jpg",
+        "Social Media/Carousel/Carousel 1-05.jpg",
+        "Social Media/Carousel/Carousel 1-06.jpg",
+        "Social Media/Carousel/Carousel 1-07.jpg",
+        "Social Media/Carousel/Carousel 1-08.jpg"
+      ]
+    },
+    {
+      "slug": "productivity-for-entrepreneurs",
+      "title": "Productivity for Entrepreneurs",
+      "category": "social-media",
+      "discipline": "Carousel",
+      "images": [
+        "assets/artwork/social-media-carousel-design-carousel-design-1.webp",
+        "assets/artwork/social-media-carousel-design-carousel-design-2.webp",
+        "assets/artwork/social-media-carousel-design-carousel-design-3.webp",
+        "assets/artwork/social-media-carousel-design-carousel-design-4.webp",
+        "assets/artwork/social-media-carousel-design-carousel-design-5.webp",
+        "assets/artwork/social-media-carousel-design-carousel-design-6.webp",
+        "assets/artwork/social-media-carousel-design-carousel-design-7.webp",
+        "assets/artwork/social-media-carousel-design-carousel-design-8.webp",
+        "assets/artwork/social-media-carousel-design-carousel-design-9.webp",
+        "assets/artwork/social-media-carousel-design-carousel-design-10.webp"
+      ],
+      "source": [
+        "Social Media/Carousel Design/Carousel Design - 1.jpg",
+        "Social Media/Carousel Design/Carousel Design - 2.jpg",
+        "Social Media/Carousel Design/Carousel Design - 3.jpg",
+        "Social Media/Carousel Design/Carousel Design - 4.jpg",
+        "Social Media/Carousel Design/Carousel Design - 5.jpg",
+        "Social Media/Carousel Design/Carousel Design - 6.jpg",
+        "Social Media/Carousel Design/Carousel Design - 7.jpg",
+        "Social Media/Carousel Design/Carousel Design - 8.jpg",
+        "Social Media/Carousel Design/Carousel Design - 9.jpg",
+        "Social Media/Carousel Design/Carousel Design - 10.jpg"
+      ]
+    },
+    {
+      "slug": "chinese-sisters-social-campaign",
+      "title": "Chinese Sisters Social Campaign",
+      "category": "social-media",
+      "discipline": "Social campaign",
+      "images": [
+        "assets/artwork/social-chinese-sister-01.webp",
+        "assets/artwork/social-chinese-sister-02.webp",
+        "assets/artwork/social-chinese-sister-03.webp",
+        "assets/artwork/social-chinese-sister-04.webp",
+        "assets/artwork/social-chinese-sister-05.webp",
+        "assets/artwork/social-chinese-sister-06.webp",
+        "assets/artwork/social-chinese-sister-07.webp",
+        "assets/artwork/social-chinese-sister-08.webp",
+        "assets/artwork/social-chinese-sister-09.webp",
+        "assets/artwork/social-chinese-sister-10.webp"
+      ],
+      "source": [
+        "Social Media/Chinese sister.pdf"
+      ]
+    },
+    {
+      "slug": "digital-marketing-campaign",
+      "title": "Digital Marketing Campaign",
+      "category": "social-media",
+      "discipline": "Social campaign",
+      "images": [
+        "assets/artwork/social-marketing-01.webp",
+        "assets/artwork/social-marketing-02.webp",
+        "assets/artwork/social-marketing-03.webp",
+        "assets/artwork/social-marketing-04.webp",
+        "assets/artwork/social-marketing-05.webp",
+        "assets/artwork/social-marketing-06.webp",
+        "assets/artwork/social-marketing-07.webp",
+        "assets/artwork/social-marketing-08.webp",
+        "assets/artwork/social-marketing-09.webp",
+        "assets/artwork/social-marketing-10.webp"
+      ],
+      "source": [
+        "Social Media/Marketing.pdf"
+      ]
+    },
+    {
+      "slug": "pizza-social-campaign",
+      "title": "Pizza Social Campaign",
+      "category": "social-media",
+      "discipline": "Social campaign",
+      "images": [
+        "assets/artwork/social-pizza-01.webp",
+        "assets/artwork/social-pizza-02.webp",
+        "assets/artwork/social-pizza-03.webp",
+        "assets/artwork/social-pizza-04.webp",
+        "assets/artwork/social-pizza-05.webp",
+        "assets/artwork/social-pizza-06.webp",
+        "assets/artwork/social-pizza-07.webp",
+        "assets/artwork/social-pizza-08.webp",
+        "assets/artwork/social-pizza-09.webp",
+        "assets/artwork/social-pizza-10.webp"
+      ],
+      "source": [
+        "Social Media/Pizza.pdf"
+      ]
+    },
+    {
+      "slug": "school-admissions-campaign",
+      "title": "School Admissions Campaign",
+      "category": "social-media",
+      "discipline": "Social campaign",
+      "images": [
+        "assets/artwork/social-school-01.webp",
+        "assets/artwork/social-school-02.webp",
+        "assets/artwork/social-school-03.webp",
+        "assets/artwork/social-school-04.webp",
+        "assets/artwork/social-school-05.webp",
+        "assets/artwork/social-school-06.webp",
+        "assets/artwork/social-school-07.webp",
+        "assets/artwork/social-school-08.webp",
+        "assets/artwork/social-school-09.webp",
+        "assets/artwork/social-school-10.webp"
+      ],
+      "source": [
+        "Social Media/School.pdf"
+      ]
+    },
+    {
+      "slug": "shawarma-social-campaign",
+      "title": "Shawarma Social Campaign",
+      "category": "social-media",
+      "discipline": "Social campaign",
+      "images": [
+        "assets/artwork/social-shawarma-01.webp",
+        "assets/artwork/social-shawarma-02.webp",
+        "assets/artwork/social-shawarma-03.webp",
+        "assets/artwork/social-shawarma-04.webp",
+        "assets/artwork/social-shawarma-05.webp",
+        "assets/artwork/social-shawarma-06.webp",
+        "assets/artwork/social-shawarma-07.webp",
+        "assets/artwork/social-shawarma-08.webp",
+        "assets/artwork/social-shawarma-09.webp",
+        "assets/artwork/social-shawarma-10.webp"
+      ],
+      "source": [
+        "Social Media/Shawarma.pdf"
+      ]
+    },
+    {
+      "slug": "skincare-social-campaign",
+      "title": "Skincare Social Campaign",
+      "category": "social-media",
+      "discipline": "Social campaign",
+      "images": [
+        "assets/artwork/social-skincare-01.webp",
+        "assets/artwork/social-skincare-02.webp",
+        "assets/artwork/social-skincare-03.webp",
+        "assets/artwork/social-skincare-04.webp",
+        "assets/artwork/social-skincare-05.webp",
+        "assets/artwork/social-skincare-06.webp",
+        "assets/artwork/social-skincare-07.webp",
+        "assets/artwork/social-skincare-08.webp",
+        "assets/artwork/social-skincare-09.webp",
+        "assets/artwork/social-skincare-10.webp"
+      ],
+      "source": [
+        "Social Media/Skincare.pdf"
+      ]
+    },
+    {
+      "slug": "sushi-social-campaign",
+      "title": "Sushi Social Campaign",
+      "category": "social-media",
+      "discipline": "Social campaign",
+      "images": [
+        "assets/artwork/social-sushi-01.webp",
+        "assets/artwork/social-sushi-02.webp",
+        "assets/artwork/social-sushi-03.webp",
+        "assets/artwork/social-sushi-04.webp",
+        "assets/artwork/social-sushi-05.webp",
+        "assets/artwork/social-sushi-06.webp",
+        "assets/artwork/social-sushi-07.webp",
+        "assets/artwork/social-sushi-08.webp",
+        "assets/artwork/social-sushi-09.webp",
+        "assets/artwork/social-sushi-10.webp"
+      ],
+      "source": [
+        "Social Media/Sushi.pdf"
+      ]
+    }
+  ],
+  "excludedFiles": [
+    "Website/Website Portfolio.pdf"
+  ]
+}

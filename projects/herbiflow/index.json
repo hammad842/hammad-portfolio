@@ -1,0 +1,242 @@
+{
+  "slug": "herbiflow",
+  "name": "Herbiflow",
+  "file": "Herbiflow.pdf",
+  "category": "Beauty & Wellness",
+  "accent": "#d7c58a",
+  "theme": "light",
+  "motion": "organic",
+  "crop": [
+    0.0,
+    1050.05,
+    1400.0,
+    9857.15
+  ],
+  "cuts": [
+    0,
+    1900,
+    4250,
+    5850,
+    7050,
+    8400,
+    9300,
+    9857.15
+  ],
+  "labels": [
+    "Reveal your beauty",
+    "Our range",
+    "What defines us",
+    "Launch your ampoule line",
+    "What we offer",
+    "Client stories",
+    "Contact"
+  ],
+  "sourceSize": [
+    1400.0,
+    10907.2001953125
+  ],
+  "size": [
+    1400.0,
+    9857.15
+  ],
+  "sections": [
+    {
+      "id": "home",
+      "label": "Reveal your beauty",
+      "start": 0.0,
+      "height": 1917.64,
+      "width": 1400.0,
+      "asset": "assets/main-section-01.webp",
+      "pixels": [
+        1920,
+        2630
+      ]
+    },
+    {
+      "id": "our-range",
+      "label": "Our range",
+      "start": 1917.64,
+      "height": 2332.3599999999997,
+      "width": 1400.0,
+      "asset": "assets/main-section-02.webp",
+      "pixels": [
+        1920,
+        3200
+      ]
+    },
+    {
+      "id": "what-defines-us",
+      "label": "What defines us",
+      "start": 4250,
+      "height": 1452.6279999999997,
+      "width": 1400.0,
+      "asset": "assets/main-section-03.webp",
+      "pixels": [
+        1920,
+        1993
+      ]
+    },
+    {
+      "id": "launch-your-ampoule-line",
+      "label": "Launch your ampoule line",
+      "start": 5702.628,
+      "height": 1465.0160000000005,
+      "width": 1400.0,
+      "asset": "assets/main-section-04.webp",
+      "pixels": [
+        1920,
+        2010
+      ]
+    },
+    {
+      "id": "what-we-offer",
+      "label": "What we offer",
+      "start": 7167.644,
+      "height": 1303.2080000000005,
+      "width": 1400.0,
+      "asset": "assets/main-section-05.webp",
+      "pixels": [
+        1920,
+        1789
+      ]
+    },
+    {
+      "id": "client-stories",
+      "label": "Client stories",
+      "start": 8470.852,
+      "height": 846.2099999999991,
+      "width": 1400.0,
+      "asset": "assets/main-section-06.webp",
+      "pixels": [
+        1920,
+        1161
+      ]
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "start": 9317.062,
+      "height": 540.0879999999997,
+      "width": 1400.0,
+      "asset": "assets/main-section-07.webp",
+      "pixels": [
+        1920,
+        742
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "kind": "detail",
+      "section": "launch-your-ampoule-line",
+      "label": "Herbiflow — product detail 1",
+      "box": [
+        100,
+        5900,
+        1200,
+        500
+      ],
+      "asset": "assets/main-section-04.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "our-range",
+      "label": "Herbiflow — product detail 2",
+      "box": [
+        55,
+        2080,
+        470,
+        520
+      ],
+      "asset": "assets/main-section-02.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "our-range",
+      "label": "Herbiflow — product detail 3",
+      "box": [
+        70,
+        3300,
+        500,
+        480
+      ],
+      "asset": "assets/main-section-02.webp"
+    },
+    {
+      "kind": "detail",
+      "section": "our-range",
+      "label": "Herbiflow — product detail 4",
+      "box": [
+        840,
+        2600,
+        440,
+        510
+      ],
+      "asset": "assets/main-section-02.webp"
+    }
+  ],
+  "navigation": [
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "Services",
+      "box": [
+        602.3478260869566,
+        66.7056,
+        97.91304347826087,
+        33.39304126984127
+      ],
+      "destination": "contact"
+    },
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "About Us",
+      "box": [
+        746.0,
+        66.7056,
+        102.78260869565219,
+        33.39304126984127
+      ],
+      "destination": "our-range"
+    },
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "Contact Us",
+      "box": [
+        888.4347826086957,
+        66.7056,
+        123.47826086956522,
+        33.39304126984127
+      ],
+      "destination": "contact"
+    },
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "Home",
+      "box": [
+        487.9130434782609,
+        66.7056,
+        74.78260869565219,
+        33.39304126984127
+      ],
+      "destination": "home"
+    },
+    {
+      "kind": "scroll",
+      "section": "home",
+      "label": "Shop",
+      "box": [
+        114.17391304347827,
+        965.2569142857143,
+        94.26086956521739,
+        58.961574603174604
+      ],
+      "destination": "our-range"
+    }
+  ],
+  "rendering": "source-preserving HTML showcase with raster artwork sections",
+  "textLayer": "flattened artwork; header OCR for navigation"
+}
